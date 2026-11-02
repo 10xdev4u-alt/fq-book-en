@@ -71,6 +71,7 @@
   * [Nat-type science and promotion methods](abc/4nat.md)
   * [A smooth, reverse, transparent proxy.](abc/proxy-s-x.md)
   * [Distinction between deep and dark nets and basic literacy](abc/darkweb.md)
+  * [Why is Pure IP so important?](abc/pure.md)
   * [Clusters, distributed, load-balanced differences](abc/p7255364.md)
   * [Why did you go over the wall and not have access to a website?](a123/rst-syscall.md)
 
