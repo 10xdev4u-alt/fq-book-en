@@ -87,6 +87,7 @@ R2 storage drum successfully used!
 
 ## Red yellow green.
 
-It is difficult to use overseas services at home, and it is no wonder that so many people are paying for treasures. We believe it is too easy to trigger the wind. Power, like AIDS, is bound to pass through mother and child, blood and sexual transmission, and it's a big story for your own good, good stuff, and cuisine can't be used, ordinary people can't triangulate, and it's too classy.
+It is difficult to use overseas services at home, and it is no wonder that so many people are paying for treasures. We believe it is too easy to trigger the wind. Power, like AIDS, through mother and child, blood and sexual transmission, is bound to be a great narrative for your own good, good things, cuisine can't be used, ordinary people can't triangulate, and it's too classy.
+
 
 
