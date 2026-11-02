@@ -11,7 +11,7 @@ The book focuses on ways to access the Internet and on techniques for accessing 
 * [Contents](docs/_sidebar.md)
 * [Note](docs/postscript.md)
 
-**Most of the sample sites of the book, and more information available[w3-goto-world](https://github.com/hoochanlon/w3-goto-world), the relevant sections of the book are stored together Library`Scientific Internet access`It'll do better! I have to say, this free ladder is amazing:[Pawdroid/Free-servers](https://github.com/Pawdroid/Free-servers)Now the proxy software has evolved to achieve VPN functionality:[clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)Even airport recommendations, too strong.
+**Most of the sample sites of the book, and more information available[w3-goto-world](https://github.com/hoochanlon/w3-goto-world), the relevant sections of the book are stored together Library`Scientific Internet access`It'll do better! I have to say, this free ladder is amazing:[Pawdroid/Free-servers](https://github.com/Pawdroid/Free-servers)Now the proxy software has evolved to achieve VPN functionality:[clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)and thousands of configurations[mihomo_yamls](https://github.com/HenryChiao/mihomo_yamls)Too strong.**
 
 <!--[![Stargazers over time](https://starchart.cc/hoochanlon/fq-book.svg)](https://starchart.cc/hoochanlon/fq-book)-->
 
