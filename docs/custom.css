@@ -3,6 +3,69 @@
     --sidebar-width: 22rem;
 }
 
+* = = = = night mode contrast repair = = = */
+* Book name link */
+html.dark .app-name-link {
+    color: #e8e8e8 !important;
+}
+
+/ * The current selection for the sidebar */
+html.dark .sidebar-nav li.active > a {
+    color: #ffffff !important;
+    font-weight: bold;
+}
+
+* * All links to the sidebar */
+html.dark .sidebar-nav a {
+    color: #cccccc !important;
+}
+
+html.dark .sidebar-nav a:hover {
+    color: #ffffff !important;
+}
+
+/ * Night Mode: Arrow hidden (in line with light pattern) */
+html.dark .sidebar-nav li::before {
+    display: none !important;
+}
+
+/* Night mode: arrows are achieved by using background gradients, and overlaying variables makes them transparent */
+html.dark .sidebar-nav {
+    --sidebar-nav-pagelink-background: no-repeat 2px calc(50% - 2.5px) / 6px 5px linear-gradient(45deg, transparent 2.75px, transparent 2.75px 4.25px, transparent 4px), no-repeat 2px calc(50% + 2.5px) / 6px 5px linear-gradient(135deg, transparent 2.75px, transparent 2.75px 4.25px, transparent 4px) !important;
+    --sidebar-nav-pagelink-background--loaded: no-repeat 0px center / 5px 6px linear-gradient(225deg, transparent 2.75px, transparent 2.75px 4.25px, transparent 4.25px), no-repeat 5px center / 5px 6px linear-gradient(135deg, transparent 2.75px, transparent 2.75px 4.25px, transparent 4.25px) !important;
+}
+
+* Top right */
+html.dark .count_words,
+html.dark .docsify-count {
+    color: #cccccc !important;
+}
+
+/ * code blocks: allowed to scroll horizontally, without interruption or forced line break*/
+.markdown-section pre {
+    overflow-x: auto !important;
+    max-width: 100% !important;
+}
+
+.markdown-section pre > code {
+    white-space: pre !important;
+    word-break: normal !important;
+    overflow-wrap: normal !important;
+}
+
+/ * Line code allows line breaks without interruption */
+.markdown-section p code,
+.markdown-section li code,
+.markdown-section td code {
+    word-break: break-all !important;
+    white-space: pre-wrap !important;
+}
+
+* Prevention of break-down of the entire content area */
+.markdown-section {
+    overflow-x: hidden !important;
+}
+
 .sidebar .search .clear-button {
     margin: 10px !important;
     padding: 0 0px !important;
