@@ -14,15 +14,6 @@ Network blockup reset, hosts IP-DNS map point question
 
 Call the transfer layer's self-seted proxy. There may be proxy configurations or web site problems, and web site problems relate to hosts mapping settings.
 
-### A small episode.
-
-A ping test of GitHub found that, although it did not work, it was accessible. Given the safety of the network, it should be that the ICMP response was disabled or ICMP filtered.
-
-References[kunlunmountain - Why are some websites PING not available but accessible?](https://www.cnblogs.com/kunlunmountain/p/5945756.html)
-
-This shifted from ping to curl testing, as the tool also provides intuitive information.
-
-![](https://i.postimg.cc/brH28KhX/010.png)
 
 ### Summary
 
@@ -37,3 +28,13 @@ Because of the higher priority given to Hosts than remote DNS, host access to th
 ![](https://i.postimg.cc/fT1p9pnn/009.png)
 
 Sometimes, even with a re-direction set by Host, regular access can take place in a short time. This is related to keep-live, browser and system DNS caches.[Brother Beard - Why didn't the changes take effect? The DNS cache?](https://www.cnblogs.com/hustskyking/p/hosts-modify.html)
+
+#### A small episode.
+
+A ping test of GitHub found that, although it did not work, it was accessible. Given the safety of the network, it should be that the ICMP response was disabled or ICMP filtered.
+
+References[kunlunmountain - Why are some websites PING not available but accessible?](https://www.cnblogs.com/kunlunmountain/p/5945756.html)
+
+This shifted from ping to curl testing, as the tool also provides intuitive information.
+
+![](https://i.postimg.cc/brH28KhX/010.png)
