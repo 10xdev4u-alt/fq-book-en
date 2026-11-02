@@ -119,7 +119,7 @@
    * [A record of success after several failures in the first set-up of the site](fkca/jianzhan.md)
    * [More than exploring APN.](fkca/apn.md)
    * [Last Tag.](fkca/tag.md)
-
+   * [Ex: Zero-competence and capital privileges in the rise of transnational class](fkca/gougongnuchubuzhoushan.md)
 
 * This posthumous note
 
