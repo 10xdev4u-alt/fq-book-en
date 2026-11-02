@@ -4,9 +4,13 @@
 |:-:|:-:|
 
 > [!important]
-> Most of the sites that are examples of the book, as well as more information available[hamuleite](https://github.com/hoochanlon/hamuleite), the relevant sections of the book are stored together Library`Scientific Internet access`It'll work better![Ip-Switch](https://github.com/hoochanlon/Ip-Switch)I don't know.[network-calculator](https://github.com/hoochanlon/network-calculator)I don't know.
+> Most of the sites that are examples of the book, as well as more information available[hamuleite](https://github.com/hoochanlon/hamuleite), recommends network switching and computing software:[Ip-Switch](https://github.com/hoochanlon/Ip-Switch)I don't know.[network-calculator](https://github.com/hoochanlon/network-calculator)I don't know.
 >
-> I have to say,[Pawdroid/Free-servers](https://github.com/Pawdroid/Free-servers)This free ladder is amazing.[clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)We've got VPN and thousands of configurations.[mihomo_yamls](https://github.com/HenryChiao/mihomo_yamls)Too strong.
+> I have to say,[Pawdroid/Free-servers](https://github.com/Pawdroid/Free-servers)I don't know.[YoulianBoshi/vpn](https://github.com/YoulianBoshi/vpn)These free ladders are amazing.[LancelotRar/free-subs](https://github.com/LancelotRar/free-subs)It is also possible to build nodes.[DiningFactory/panda-vpn-pro](https://github.com/DiningFactory/panda-vpn-pro)Low-cost airports are an option.
+>
+> [clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)We've got VPN and thousands of configurations.[mihomo_yamls](https://github.com/HenryChiao/mihomo_yamls)Too strong.
+>
+> With the arrival of the AI age,[panxunying/ai-coding-welfare](https://github.com/panxunying/ai-coding-welfare)I know some I.A. Coding, welfare station navigation is not bad. I use salted fish...
 
 ## ***intro***
 
@@ -15,7 +19,6 @@ The book allows you to connect to the Internet (hereinafter referred to as " the
 * [Read](docs/README.md)
 * [Contents](docs/_sidebar.md)
 * [Note](docs/postscript.md)
-
 
 ## ***update***
 
@@ -199,5 +202,9 @@ The book allows for performance and sharing but prohibits commercial use, and ci
 * This writing is intended for overseas Chinese users and is for scientific research and study only and is not intended for other purposes
 * The Chinese people are asking themselves to shut down the book and to delete all its contents within 24 hours, otherwise the author of the book will not be responsible for any consequences.
 
+> [!note]
+> Next.[A guide to life.](https://github.com/byoungd/up)Maybe it's funny... and, of course,[Yun (run) studies](https://github.com/The-Run-Philosophy-Organization/run)I don't know.
 
+## Star History
 
+[![Star History Chart](https://api.star-history.com/chart?repos=hoochanlon/fq-book%2Choochanlon/hamuleite&type=timeline&legend=top-left)](https://www.star-history.com/?repos=hoochanlon%2Ffq-book%2Choochanlon%2Fhamuleite&type=timeline&logscale=&legend=top-left)

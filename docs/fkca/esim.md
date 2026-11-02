@@ -58,6 +58,6 @@ References and detailed video teaching:
 * [The rings are infinite - super high value compared to U.S. traffic eS.M.](https://www.youtube.com/watch?v=Xmz0As2eBC0)
 * [The rings are infinite. We don't need a physical card, we'll clean up the APP overseas, and we'll lose registration!](https://www.youtube.com/watch?v=I65a7BKtCf0)
 
-Seeing here, you know why Esim is so tight... it's good for you!
+You see here, you know why Esim is so tight... it's good for you![zgwl/chinese-buy-us-stock-guide](https://github.com/zgwl/chinese-buy-us-stock-guide)
 
 > [!tip] If none of this is going to work, find a scalable billing platform or go abroad and buy cell cards or something.

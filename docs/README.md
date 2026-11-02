@@ -15,5 +15,6 @@ Because of the need to use jakarta-related products and content, etc.; so far, t
 
 This book is dedicated to people who love the Internet.
 
-***[About Me](https://hoochanlon.github.io/hoochanlon/hcl/index.html)***
+***[About Me](https://hoochanlon.github.io)***
 
+[![Star History Chart](https://api.star-history.com/chart?repos=hoochanlon/fq-book%2Choochanlon/hamuleite&type=timeline&legend=top-left)](https://www.star-history.com/?repos=hoochanlon%2Ffq-book%2Choochanlon%2Fhamuleite&type=timeline&logscale=&legend=top-left)
