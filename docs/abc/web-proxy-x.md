@@ -29,9 +29,17 @@ It is also possible that the firewall is related to the protocol identification 
 
 ![2020-12-03_120742.png](https://i.loli.net/2020/12/03/K5FiSZtICswgycp.png)
 
-** By in-depth discovery**->WAN has also developed port-wide access to limit agency, VPN to overturning walls; in general terms, there are about 100 students in schools and more than a dozen or more in different professional classes, and different rules of access to the Internet are established according to the needs involved. Combining Internet access rules into a strategy to apply a set of Internet-based behaviour norms to the strategy greatly facilitates the management of Internet-based behaviour among school students.
+** By in-depth discovery**->WAN and develop port-wide access to limit agency, VPN over the wall.
 
 ![2020-12-03_121845.png](https://i.loli.net/2020/12/03/1PbhsDdxj3nKwQE.png)
+
+The following information is available for the user of the experiment within the port set by the system, which is not included in the above chart.
+
+![089EF.png](https://i.loli.net/2020/12/05/KI65dAZFyeWDaOm.png)
+
+This is why the visit was unusual; in general terms, there are more than 100 students in schools and more than a dozen or so in different professional classes, and different rules of access are needed. Combining Internet access rules into a strategy to apply a set of Internet-based behaviour norms to the strategy greatly facilitates the management of Internet-based behaviour among school students.
+
+** Enabled port doubt on browser page**
 
 Convinced of the open port restrictions on access to the devices, are the different sites open by the browser? So we'll refer.[Know-Does the browser use different port numbers for each page?](https://www.zhihu.com/question/401686199)Two answers concluded:
 
