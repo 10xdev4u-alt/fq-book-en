@@ -1,0 +1,118 @@
+Name: "Question or Bug Report"
+Before asking questions or feedback questions, please complete them as required, otherwise they may be closed directly.
+title: "[A brief overview of your problems, e.g., the local deployment sidebar is empty]"
+labels:
+  - question
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ** Please confirm before sending notice that the fact that you do not fill in the template and that the information is seriously inadequate may be directly closed. **
+
+  - type: dropdown
+    id: category
+    attributes:
+      What kind of question is this? (Practical)
+      options:
+        - Local deployment/docsify configuration
+        - Git / GitHub related issues (e.g. fork, sync upstream)
+        - Error or suggestion of document contents
+        - Other
+      multiple: false
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: self-check
+    attributes:
+      Label: The self-check you've done.
+      Discription: If not all checkouts, finish the corresponding check and then mention issue.
+      options:
+        - Label: I have read the repository root directory README.md and docs/README.md
+          required: true
+        - Label: I have searched in closed / open issues. The same problem was not found
+          required: true
+        - Label: I checked browser cache / replace browser retry
+          required: true
+        - I checked the local environment (Node, npm, network, agency, etc.)
+          required: true
+
+  - type: textarea
+    id: steps
+    attributes:
+      Label: Revert steps / operating processes (required)
+      Please describe in detail how you operate, for example, first what you do, then what you do, until the problem arises.
+      placeholder: |
+        1. Cloning / fork repository to local...
+        2. Execute docsify service...
+        3. Open Browser Accesshttp://localhost:3000 ……
+    validations:
+      required: true
+
+  - type: textarea
+    id: result-vs-expected
+    attributes:
+      label: Actual results vs Expected results (mandatory)
+      Describe what you see and what you expect.
+      placeholder: |
+        Actual results: For example, the sidebar is only foreword, which is not shown in other directories; a certain error is reported on the page.
+
+        Expected results: For example, it is hoped that the sidebar will normally show all chapters.
+    validations:
+      required: true
+
+  - type: input
+    id: os
+    attributes:
+      label: operating system and version (required)
+      Placeholder: For example: Windows 10 / MacOS 14 / Ubuntu 22.04
+    validations:
+      required: true
+
+  - type: input
+    id: browser
+    attributes:
+      label: Browser and Version (Prescribed)
+      Placeholder: e. g. Chrome 121 / Edge 120, etc.
+    validations:
+      required: true
+
+  - type: input
+    id: node
+    attributes:
+      Label: Node Version (Prescribed, execute node-v)
+      Placeholder: For example: v18.19.0
+    validations:
+      required: true
+
+  - type: input
+    id: package-manager
+    attributes:
+      label: Package Manager and Version (optional)
+      Description: If you use npm / pnpm / yarn, please inform the version.
+      Placeholder: For example: npm 10.2.0
+
+  - type: dropdown
+    id: proxy
+    attributes:
+      Label: Is the proxy/ VPN used?
+      options:
+        - Yes
+        - Yes (system-level proxy)
+        - Yes (browser plugin)
+        - Yes (VPN/ other means)
+    validations:
+      required: true
+
+  - type: textarea
+    id: logs
+    attributes:
+      label: Key error information/ log / screenshot (recommended)
+      Discription: Paste or upload attachments to the browser console if errors are reported, command line errors are reported or intercepted.
+
+  - type: markdown
+    attributes:
+      value: |
+        ---
+        Note:** A simple phrase, “Can't hang up”, is an invalid description and will be shut down directly by a robot or maintainer. **
+
