@@ -3,6 +3,9 @@
 |[![cc](https://i.creativecommons.org/l/by-nc/4.0/80x15.png)](http://creativecommons.org/licenses/by-nc/4.0/)|[![fq-book](https://img.shields.io/badge/%F0%9F%93%96book-fq--book-red.svg?longCache=true&style=flat-square)](https://hoochanlon.github.io/fq-book)|[![blog](https://img.shields.io/badge/%F0%9F%94%97blog-hoochanlon-lightgrey.svg?longCache=true&style=flat-square)](https://hoochanlon.github.io/)| [![outlook](https://img.shields.io/badge/%F0%9F%93%A7hotmail-@邮箱联系-blue.svg?longCache=true&style=flat-square)](mailto:hoochanlon@outlook.com) |[![stars](https://img.shields.io/github/stars/hoochanlon/fq-book.svg?style=social)](https://github.com/hoochanlon/fq-book)
 |:-:|:-:|:-:|:-:|:-:|
 
+> [!important]
+> Most of the sites that are examples of the book, as well as more information available[hamuleite](https://github.com/hoochanlon/hamuleite), the relevant sections of the book are stored together Library`Scientific Internet access`It'll do better! I have to say, this free ladder is amazing:[Pawdroid/Free-servers](https://github.com/Pawdroid/Free-servers)Now the proxy software has evolved to achieve VPN functionality:[clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)and thousands of configurations[mihomo_yamls](https://github.com/HenryChiao/mihomo_yamls)Too strong.
+
 ## ***intro***
 
 The book focuses on ways to access the Internet and on techniques for accessing information, and provides a brief hand-to-hand configuration of relevant and typical software, as well as a description of the rationale.
@@ -10,8 +13,6 @@ The book focuses on ways to access the Internet and on techniques for accessing 
 * [Read](docs/README.md)
 * [Contents](docs/_sidebar.md)
 * [Note](docs/postscript.md)
-
-**Most of the sample sites of the book, and more information available[w3-goto-world](https://github.com/hoochanlon/w3-goto-world), the relevant sections of the book are stored together Library`Scientific Internet access`It'll do better! I have to say, this free ladder is amazing:[Pawdroid/Free-servers](https://github.com/Pawdroid/Free-servers)Now the proxy software has evolved to achieve VPN functionality:[clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)and thousands of configurations[mihomo_yamls](https://github.com/HenryChiao/mihomo_yamls)Too strong.**
 
 <!--[![Stargazers over time](https://starchart.cc/hoochanlon/fq-book.svg)](https://starchart.cc/hoochanlon/fq-book)-->
 
