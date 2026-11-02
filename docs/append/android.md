@@ -19,3 +19,7 @@ Native Androids and shared PC Internet are also accessible directly.[GitHub](htt
 Compared to PCs, mobile phone proxies or VPNs are significantly more time-bound and software-rich. The search for such software can therefore be described as a simple exercise, the main difficulty being to brush the machine; the national brush is so complicated by different brands that it is not the main subject of the book that it is no longer demonstrated.
 
 Here is a downloading site for Google stores:[uptodown](https://www.uptodown.com/android)
+
+## Ties are a kind of surveillance.
+
+China is Saber North Korea and has its own Arirang phone. Sooner or later, as in the case of the domestic use of WiFi for free access to the Internet, it will be back to the era of overseas water purchases.
