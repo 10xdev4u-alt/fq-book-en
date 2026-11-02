@@ -8,6 +8,11 @@
     padding: 0 0px !important;
 }
 
+* Hide this element completely */
+aside.toc-nav.nothing {
+  display: none !important;
+}
+
 /* Moveend Full Hidden, Click Icon Show - Include iPad*/
 @media only screen and (max-width: 1024px) {
   aside.toc-nav {
