@@ -13,7 +13,9 @@ The book focuses on ways to access the Internet and on techniques for accessing 
 
 **Most of the sample sites of the book, and more information available[w3-goto-world](https://github.com/hoochanlon/w3-goto-world), the relevant sections of the book are stored together Library`Scientific Internet access`It'll do better!**
 
-[![Stargazers over time](https://starchart.cc/hoochanlon/fq-book.svg)](https://starchart.cc/hoochanlon/fq-book)
+<!--[![Stargazers over time](https://starchart.cc/hoochanlon/fq-book.svg)](https://starchart.cc/hoochanlon/fq-book)-->
+
+[![Star History Chart](https://api.star-history.com/svg?repos=hoochanlon/fq-book&type=Date)](https://star-history.com/#hoochanlon/fq-book&Date)
 
 ## ***update***
 
