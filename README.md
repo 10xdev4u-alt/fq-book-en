@@ -47,7 +47,7 @@ Release!: Change to 100 degrees, Ali, DNS, and use ipconfig/flushdns to refresh 
 * Ali DNS: 223.5.5.5, 223.6.6.6.6
 * DNS: 119.29.29.29, 182.254.116.116
 
-Just a few words: the software for setting up HOSTS, DNS, recommended:[SwitchHosts](https://github.com/oldj/SwitchHosts)(Import GitHub hosts available)[ineo6/hosts](https://github.com/ineo6/hosts)I'm sorry.[DNSCrypt](https://github.com/DNSCrypt/dnscrypt-proxy)I think whatever the proxy and vpn change, these two settings are always needed. In addition,[SteamTools](https://github.com/BeyondDimension/SteamTools)Game accelerators, basic community shops and community news browsing for steam are very good, after all, free.
+Just a few words: the software for setting up HOSTS, DNS, recommended:[SwitchHosts](https://github.com/oldj/SwitchHosts)(Import GitHub hosts available)[ineo6/hosts](https://github.com/ineo6/hosts)I'm sorry.[DNSCrypt](https://github.com/DNSCrypt/dnscrypt-proxy)I don't care how the proxy and vpn change. VPN, Proxy and something new.[clashios](https://clashios.com/about-me/)The reference to software is also useful. In addition,[SteamTools](https://github.com/BeyondDimension/SteamTools)Game accelerators, basic community shops and community news browsing for steam are very good, after all, free.
 
 ## ***usage***
 
