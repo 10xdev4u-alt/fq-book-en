@@ -6,7 +6,7 @@
 > [!important]
 > Most of the sites that are examples of the book, as well as more information available[hamuleite](https://github.com/hoochanlon/hamuleite), recommends network switching and computing software:[Ip-Switch](https://github.com/hoochanlon/Ip-Switch)I don't know.[network-calculator](https://github.com/hoochanlon/network-calculator)I don't know.
 >
-> I have to say,[Pawdroid/Free-servers](https://github.com/Pawdroid/Free-servers)This free ladder is amazing.[LancelotRar/free-subs](https://github.com/LancelotRar/free-subs)It is also possible to build nodes.[DiningFactory/panda-vpn-pro](https://github.com/DiningFactory/panda-vpn-pro)Low-cost airports are an option.
+> I have to say,[Pawdroid/Free-servers](https://github.com/Pawdroid/Free-servers)I don't know.[YoulianBoshi/vpn](https://github.com/YoulianBoshi/vpn)These free ladders are amazing.[LancelotRar/free-subs](https://github.com/LancelotRar/free-subs)It is also possible to build nodes.[DiningFactory/panda-vpn-pro](https://github.com/DiningFactory/panda-vpn-pro)Low-cost airports are an option.
 >
 > [clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)We've got VPN and thousands of configurations.[mihomo_yamls](https://github.com/HenryChiao/mihomo_yamls)Too strong.
 >
