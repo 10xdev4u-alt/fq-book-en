@@ -15,8 +15,6 @@ The book focuses on ways to access the Internet and on techniques for accessing 
 
 <!--[![Stargazers over time](https://starchart.cc/hoochanlon/fq-book.svg)](https://starchart.cc/hoochanlon/fq-book)-->
 
-[![Star History Chart](https://api.star-history.com/svg?repos=hoochanlon/fq-book&type=Date)](https://star-history.com/#hoochanlon/fq-book&Date)
-
 ## ***update***
 
 This book will connect you to the Internet.->Key points for updating VPN and proxy applications:
