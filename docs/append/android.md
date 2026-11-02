@@ -19,3 +19,7 @@ Native Androids and shared PC Internet are also accessible directly.[GitHub](htt
 Compared to PCs, mobile phone proxies or VPNs are significantly more time-bound and software-rich. The search for such software can therefore be described as a simple exercise, the main difficulty being to brush the machine; the national brush is so complicated by different brands that it is not the main subject of the book that it is no longer demonstrated.
 
 Here is a downloading site for Google stores:[uptodown](https://www.uptodown.com/android)
+
+## The Iron Curtain of Technology, Saber North Korea
+
+It's Saber North Korea, with its own Arirang phone. Sooner or later, in order to freely use integrated AI's apple phones in the country, like WiFi's initial use of free Internet access in the country, it will have to be purchased abroad, returning to the era of water supplies. The kidnapping of the Anti-Fraud Center, in turn, is another area of publicity, but the number of fraudulent telephone calls remains high. It was then very efficient to clean up the fraud networks, and how many netizens did not speak the same way as Lord Yang.

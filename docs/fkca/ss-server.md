@@ -109,6 +109,7 @@ Client Configuration Link Reference:
 
 The clash fully configured template follows, copy and paste, and changes as in the " key configuration reading " , for example, the proxies and proxy-groups section.
 
+More detailed configuration can be found:https://github.com/HenryChiao/mihomo_yamls
 
 ```yml
 port: 7890
