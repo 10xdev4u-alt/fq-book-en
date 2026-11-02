@@ -18,7 +18,7 @@
   * [Access via proxy IP combined fingerprint browser](fkca/fxxkcxxxa.md)
   * [Could not close temporary folder: %s](fkca/ipdodo-gemini.md)
   * [Unable to use Gemini](fkca/myself-gemini.md)
-  * [Today's offshore patriotism, digital diaspora, technology decoupling and double blockade in China](fkca/gougong.md)
+  * [Offshore patriotism, digital diaspora, decoupling and double blockade](fkca/gougong.md)
   * [The Zero-According and Capital Privileges of the Transnational Layer](fkca/gougongnuchubuzhoushan.md)
 
 * DNS, Hosts
