@@ -1,4 +1,4 @@
-# VPN and proxy application details
+# This book will connect you to the Internet.
 
 |[![cc](https://i.creativecommons.org/l/by-nc/4.0/80x15.png)](http://creativecommons.org/licenses/by-nc/4.0/)|[![fq-book](https://img.shields.io/badge/%F0%9F%93%96book-fq--book-red.svg?longCache=true&style=flat-square)](https://hoochanlon.github.io/fq-book)|[![blog](https://img.shields.io/badge/%F0%9F%94%97blog-hoochanlon-lightgrey.svg?longCache=true&style=flat-square)](https://hoochanlon.github.io/)| [![outlook](https://img.shields.io/badge/%F0%9F%93%A7hotmail-@邮箱联系-blue.svg?longCache=true&style=flat-square)](mailto:hoochanlon@outlook.com) |[![stars](https://img.shields.io/github/stars/hoochanlon/fq-book.svg?style=social)](https://github.com/hoochanlon/fq-book)
 |:-:|:-:|:-:|:-:|:-:|
@@ -10,7 +10,7 @@
 
 ## ***intro***
 
-The book focuses on ways to access the Internet and on techniques for accessing information, and provides a brief hand-to-hand configuration of relevant and typical software, as well as a description of the rationale.
+The book allows you to connect to the Internet (hereinafter referred to as " the book " ) to focus on how to access the Internet and on the techniques of accessing information, and to make a brief hand-on configuration of the popular and typical software, as well as a description of the principles.
 
 * [Read](docs/README.md)
 * [Contents](docs/_sidebar.md)
@@ -19,7 +19,7 @@ The book focuses on ways to access the Internet and on techniques for accessing 
 
 ## ***update***
 
-This book will connect you to the Internet.->Key points for updating VPN and proxy applications:
+An update of the book:
 
 * Increased speed of science online
 * Increased access and software configuration
