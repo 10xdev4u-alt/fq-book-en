@@ -1,23 +1,23 @@
-Name: "Question or Bug Report"
-Before asking questions or feedback questions, please complete them as required, otherwise they may be closed directly.
-title: "[A brief overview of your problems, e.g., the local deployment sidebar is empty]"
+name: "问题反馈 / Question or Bug Report"
+description: "提问或反馈问题前，请务必按要求完整填写，否则可能会被直接关闭。"
+title: "[简要概括你的问题，例如：本地部署后侧边栏为空]"
 labels:
   - question
 body:
   - type: markdown
     attributes:
       value: |
-        ** Please confirm before sending notice that the fact that you do not fill in the template and that the information is seriously inadequate may be directly closed. **
+        ⚠️ **发 issue 前请务必先确认以下事项：不按模板填写、信息严重不足的 issue 可能会被直接关闭。**
 
   - type: dropdown
     id: category
     attributes:
-      What kind of question is this? (Practical)
+      label: 这是哪一类问题？(必选)
       options:
-        - Local deployment/docsify configuration
-        - Git / GitHub related issues (e.g. fork, sync upstream)
-        - Error or suggestion of document contents
-        - Other
+        - 本地部署 / docsify 配置问题
+        - Git / GitHub 相关问题（例如 fork、同步上游）
+        - 文档内容勘误或建议
+        - 其他
       multiple: false
     validations:
       required: true
@@ -25,94 +25,94 @@ body:
   - type: checkboxes
     id: self-check
     attributes:
-      Label: The self-check you've done.
-      Discription: If not all checkouts, finish the corresponding check and then mention issue.
+      label: 你已经做过的自查（全部勾选后再提交）
+      description: 若无法全部勾选，请先完成对应检查再提 issue。
       options:
-        - Label: I have read the repository root directory README.md and docs/README.md
+        - label: 我已仔细阅读仓库根目录 README.md 和 docs/README.md
           required: true
-        - Label: I have searched in closed / open issues. The same problem was not found
+        - label: 我已在已关闭 / 已开放的 issues 中搜索过，没有找到相同问题
           required: true
-        - Label: I checked browser cache / replace browser retry
+        - label: 我已检查浏览器缓存 / 更换浏览器重试
           required: true
-        - I checked the local environment (Node, npm, network, agency, etc.)
+        - label: 我已检查本地环境（Node、npm、网络、代理等）是否正常
           required: true
 
   - type: textarea
     id: steps
     attributes:
-      Label: Revert steps / operating processes (required)
-      Please describe in detail how you operate, for example, first what you do, then what you do, until the problem arises.
+      label: 复现步骤 / 操作过程（必填）
+      description: 请按步骤详细描述你是如何操作的，例如先做了什么、再做了什么，直至出现问题。
       placeholder: |
-        1. Cloning / fork repository to local...
-        2. Execute docsify service...
-        3. Open Browser Accesshttp://localhost:3000 ……
+        1. 克隆 / fork 仓库到本地……
+        2. 在 docs 目录执行 docsify serve .……
+        3. 打开浏览器访问 http://localhost:3000 ……
     validations:
       required: true
 
   - type: textarea
     id: result-vs-expected
     attributes:
-      label: Actual results vs Expected results (mandatory)
-      Describe what you see and what you expect.
+      label: 实际结果 vs 预期结果（必填）
+      description: 说明现在看到的行为，以及你期望的正确行为。
       placeholder: |
-        Actual results: For example, the sidebar is only foreword, which is not shown in other directories; a certain error is reported on the page.
+        实际结果：例如，侧边栏只有“前言”，其他目录不显示；页面报某某错误等。
 
-        Expected results: For example, it is hoped that the sidebar will normally show all chapters.
+        预期结果：例如，希望侧边栏正常显示全部章节。
     validations:
       required: true
 
   - type: input
     id: os
     attributes:
-      label: operating system and version (required)
-      Placeholder: For example: Windows 10 / MacOS 14 / Ubuntu 22.04
+      label: 操作系统及版本（必填）
+      placeholder: 例如：Windows 10 / macOS 14 / Ubuntu 22.04
     validations:
       required: true
 
   - type: input
     id: browser
     attributes:
-      label: Browser and Version (Prescribed)
-      Placeholder: e. g. Chrome 121 / Edge 120, etc.
+      label: 浏览器及版本（必填）
+      placeholder: 例如：Chrome 121 / Edge 120 等
     validations:
       required: true
 
   - type: input
     id: node
     attributes:
-      Label: Node Version (Prescribed, execute node-v)
-      Placeholder: For example: v18.19.0
+      label: Node 版本（必填，执行 node -v）
+      placeholder: 例如：v18.19.0
     validations:
       required: true
 
   - type: input
     id: package-manager
     attributes:
-      label: Package Manager and Version (optional)
-      Description: If you use npm / pnpm / yarn, please inform the version.
-      Placeholder: For example: npm 10.2.0
+      label: 包管理器及版本（可选）
+      description: 如使用 npm / pnpm / yarn，请告知版本。
+      placeholder: 例如：npm 10.2.0
 
   - type: dropdown
     id: proxy
     attributes:
-      Label: Is the proxy/ VPN used?
+      label: 是否使用了代理 / VPN？
       options:
-        - Yes
-        - Yes (system-level proxy)
-        - Yes (browser plugin)
-        - Yes (VPN/ other means)
+        - 否
+        - 是（系统级代理）
+        - 是（浏览器插件）
+        - 是（VPN / 其他方式）
     validations:
       required: true
 
   - type: textarea
     id: logs
     attributes:
-      label: Key error information/ log / screenshot (recommended)
-      Discription: Paste or upload attachments to the browser console if errors are reported, command line errors are reported or intercepted.
+      label: 关键错误信息 / 日志 / 截图（建议提供）
+      description: 如有浏览器控制台报错、命令行报错或截图，请粘贴在此或上传附件。
 
   - type: markdown
     attributes:
       value: |
         ---
-        Note:** A simple phrase, “Can't hang up”, is an invalid description and will be shut down directly by a robot or maintainer. **
+        提示：**简单一句“不能用”“挂了”这类描述属于无效 issue，会被机器人或维护者直接关闭。**
 

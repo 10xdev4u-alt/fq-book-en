@@ -1,9 +1,9 @@
-# Make sure the script throws the error.
+# exit on any error
 set -e
 
-# If published to custom domain name
+# for a custom domain, uncomment below
 # echo 'www.example.com' > CNAME
-# Script Referencehttp://wmm66.com/index/article/detail/id/62.html
+# script reference: http://wmm66.com/index/article/detail/id/62.html
 
 git add .
 git commit -m 'push'

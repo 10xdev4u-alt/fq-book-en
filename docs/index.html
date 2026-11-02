@@ -2,9 +2,9 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>This book can connect you to the Internet.</title>
+  <title>This Book Can Connect You to the Internet (VPN, Proxy Applications Explained)</title>
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-  <meta name="description" content="Over the wall! Methods and techniques of scientific Internet access and VPN or proxy simple use instruction Cheng">
+  <meta name="description" content="Bypassing the GFW: methods and techniques for scientific internet access, plus a concise VPN and proxy usage guide">
   <META NAME ="keywords" CONTENT="ss,ssr,ssh,proxy,vpn"> 
   <link rel="icon" href="ico/favicon.ico">
   <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
@@ -21,7 +21,7 @@
   <link rel="stylesheet" href="./custom.css">
   
   <style type="text/css">
-    / * navs fixed top navs fixed*/
+    /* navs fixed: top navigation fixed */
     .app-nav {
       position: fixed; 
     }
@@ -34,20 +34,20 @@
 <script>
     window.$docsify = {
       nameLink: 'https://github.com/hoochanlon',
-      Name: 'This book allows you to connect to the Internet',
+      name: 'This Book Can Connect You to the Internet',
       repo: "hoochanlon/fq-book",
       loadSidebar: true,
       themeColor: "black",
       auto2top: true,
       subMaxLevel: 3,
       darkSwitch: {
-        Fixed: true, / /switch button fixed
+        fixed: true, // switch button fixed
       },
       count:{
         countable:true,
         fontsize:'0.9em',
         color:'rgb(90,90,90)',
-        language:'chinese'
+        language:'english'
       },
       toc: {
         tocMaxLevel: 5,
@@ -64,10 +64,10 @@
       search: {
         paths: 'auto',
         placeholder: {
-          '/': 'search'
+          '/': 'Search'
       },
       noData: {
-          '/ ': 'No relevant words found, re-enter '
+          '/': 'No relevant words found, please re-enter'
         }
       },
       latex: {
@@ -94,7 +94,7 @@
           '<span> &copy;2018.<a href="https://github.com/hoochanlon" style="color: inherit; font-weight: normal; text-decoration: none;">hoochanlon</a></span>&emsp;',
       '<span><a href="https://docsify.js.org" target="_blank" style="color: inherit; font-weight: normal; text-decoration: none;">Powered by docsify</a><span>',        
         '&emsp;',
-         '<span><a href="http://creativecommons.org/licenses/by-nc/4.0/" target="_blank" style="color: inherit; font-weight: normal; text-decoration: none;"><img alt="Knowledge-sharing licensing agreements" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/80x15.png" /></a><span>',
+         '<span><a href="http://creativecommons.org/licenses/by-nc/4.0/" target="_blank" style="color: inherit; font-weight: normal; text-decoration: none;"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/80x15.png" /></a><span>',
         '</footer>'
       ].join('')
       hook.afterEach(function (html) {
@@ -104,17 +104,17 @@
       ]
     }
     //      + '<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">'+
-  //      '<img alt="Knowledge-sharing licensing agreements" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/80x15.png" />'
+  //      '<img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/80x15.png" />'
     //    +'</a>',
 </script>
-<!--1. Docsify Core (must be first loaded)-->
+<!-- 1. docsify core (must load first) -->
 <script src="//cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js"></script>
-<!--2. Docsifier plugins-->
+<!-- 2. docsify built-in plugins -->
 <script src="//cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.min.js"></script>
 <script src="//cdn.jsdelivr.net/npm/docsify@4/lib/plugins/emoji.min.js"></script>
 <script src="//cdn.jsdelivr.net/npm/docsify@4/lib/plugins/zoom-image.min.js"></script>
 <script src="//cdn.jsdelivr.net/npm/docsify@4/lib/plugins/external-script.min.js"></script>
-<!--3. Third-party plugins-->
+<!-- 3. third-party plugins -->
 <script src="//cdn.jsdelivr.net/npm/docsify-copy-code@2/dist/docsify-copy-code.min.js"></script>
 <script src="//cdn.jsdelivr.net/npm/docsify-count@latest/dist/countable.min.js"></script>
 <script src="//cdn.jsdelivr.net/npm/docsify-plugin-toc@1.3.1/dist/docsify-plugin-toc.min.js"></script>
@@ -122,10 +122,10 @@
 <script src="//cdn.jsdelivr.net/npm/docsify-pagination/dist/docsify-pagination.min.js"></script>
 <script src="//cdn.jsdelivr.net/npm/docsify-plugin-flexible-alerts/dist/docsify-plugin-flexible-alerts.min.js"></script>
 <script src="//cdn.jsdelivr.net/npm/docsify-dark-switch/dist/docsify-dark-switch.min.js"></script>
-<!--4. Prism Code Highlight-->
+<!-- 4. Prism code highlighting -->
 <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-bash.min.js"></script>
 <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-jsx.min.js"></script>
-<!--Mermaid Chart-->
+<!-- 5. Mermaid charts -->
 <script type="module">
     import mermaid from "https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs";
     mermaid.initialize({ startOnLoad: true });

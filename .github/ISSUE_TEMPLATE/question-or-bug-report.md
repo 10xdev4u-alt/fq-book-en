@@ -1,62 +1,62 @@
 ---
-Name: "Question or Bug Report"
-about: "Perform as required before asking questions or feedback questions, otherwise they may be directly closed."
-Title: "Please give a brief overview of your questions, e.g., the local sidebar is empty."
+name: "问题反馈 / Question or Bug Report"
+about: "提问或反馈问题前，请务必按要求填写，否则可能会被直接关闭。"
+title: "[请简要概括你的问题，例如：本地部署后侧边栏为空]"
 labels: ["question"]
 assignees: []
 ---
 
-> ** Please confirm before sending notice that the fact that you do not fill in the template and that the information is seriously inadequate may be directly closed. **
+> ⚠️ **发 issue 前请务必先确认以下事项：不按模板填写、信息严重不足的 issue 可能会被直接关闭。**
 
-## 1. What kind of question is this?
+## 1. 这是哪一类问题？
 
-- [] Local deployment/docsify configuration issues
-- [] Git / GitHub related issues (e.g. fork, sync upstream)
-- [] Errors or recommendations in document contents
-- [] Other (please describe briefly):
+- [ ] 本地部署 / docsify 配置问题
+- [ ] Git / GitHub 相关问题（例如 fork、同步上游）
+- [ ] 文档内容勘误或建议
+- [ ] 其他（请简要说明）：
 
-## 2. Self-checks that you have done (all checked and submitted)
+## 2. 你已经做过的自查（全部勾选后再提交）
 
-- I've read the warehouse root catalogue.`README.md`and`docs/README.md`
-- [] I've already searched in closed / open issues, and the same problem is not found
-- [] I have checked the browser cache / changed browser retry
-- [] I checked the local environment (Node, npm, network, agency, etc.)
+- [ ] 我已仔细阅读仓库根目录 `README.md` 和 `docs/README.md`
+- [ ] 我已在已关闭 / 已开放的 issues 中搜索过，没有找到相同问题
+- [ ] 我已检查浏览器缓存 / 更换浏览器重试
+- [ ] 我已检查本地环境（Node、npm、网络、代理等）是否正常
 
-> If any of the above items are not completed, please finish processing and refer to issue.
+> 若以上任意一项未完成，请先处理完再提 issue。
 
-## Recovery steps / operating processes (mandatory)
+## 3. 复现步骤 / 操作过程（必填）
 
-Please describe in as detailed and step by step as possible how you operate, for example:
-1. Cloning / fork repository to local...
-2. Yes.`docs`Directory Implementation`docsify serve .`……
-3. Open Browser Access`http://localhost:3000`……
+请尽量详细、按步骤描述你是如何操作的，例如：
+1. 克隆 / fork 仓库到本地……
+2. 在 `docs` 目录执行 `docsify serve .`……
+3. 打开浏览器访问 `http://localhost:3000`……
 
-## 4. Actual results vs Expected results (mandatory)
+## 4. 实际结果 vs 预期结果（必填）
 
-**What happened:**
+**实际结果（What happened）：**
 
-(e.g., the sidebar is foreword only, other directories are not shown; page is reported for an error etc.)
+（例如：侧边栏只有“前言”，其他目录不显示；页面报某某错误等）
 
-**What you expected:**
+**预期结果（What you expected）：**
 
-(e.g. want the sidebar to show all chapters properly)
+（例如：希望侧边栏正常显示全部章节）
 
-## 5. Environmental information (mandatory)
+## 5. 环境信息（必填）
 
-- Operating systems and versions (e.g. Windows 10 / MacOS 14 / Ubuntu 22.04):
-- Browser and version (e. g. Chrome 121 / Edge 120, etc.):
-- Node Version`node -v`Output:
-- npm / pnpm / yarn version:
-- Whether proxy / VPN (Yes/ No, please outline the type and software):
+- 操作系统及版本（例如：Windows 10 / macOS 14 / Ubuntu 22.04）：
+- 浏览器及版本（例如：Chrome 121 / Edge 120 等）：
+- Node 版本（`node -v` 输出）：
+- npm / pnpm / yarn 版本：
+- 是否使用了代理 / VPN（是 / 否，如是请简要说明类型和软件）：
 
-## Keyshots / Logs (strongly recommended)
+## 6. 关键截图 / 日志（强烈建议提供）
 
-- If error is reported by the browser console, paste the error information or screenshot
-- Paste the full command and output if the command line is wrong
+- 如有浏览器控制台报错，请粘贴报错信息或截图
+- 如有命令行报错，请粘贴完整命令及输出
 
-(Attached here)
+（在此处附上）
 
 ---
 
-> Note:** A simple phrase, “Can't hang up”, is an invalid description and will be shut down directly by a robot or maintainer. **
+> 提示：**简单一句“不能用”“挂了”这类描述属于无效 issue，会被机器人或维护者直接关闭。**
 
