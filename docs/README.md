@@ -19,4 +19,5 @@ This book is dedicated to people who love the Internet.
 
 ### Self-extend
 
-* [" From Desk to Internal Operations "](https://hoochanlon.github.io/helpdesk-guide/)
+* ["PocketWire"](https://hoochanlon.github.io/helpdesk-guide/)
+* [" Reading the script to think about project management "](https://github.com/hoochanlon/reading-pm-by-lib)
