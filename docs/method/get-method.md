@@ -81,9 +81,6 @@ There are many ways in which such tools can be accessed, and the key is to be ca
     
     ** Github, skilled in the use of Github, which is very important! Web time machine back-up. PDF for bottom-up.
 
-* He's in a state of emergency.
-
-    Not to recommend access to a website with the same strong political intentions as the wall, although political opponents are not vegetarians, but they are very disgusting things of the same grade, and there's no way to forget that; this software is even greener than domestic software... and there may be a back door or something.
 
 * **Strategicist model**
 
