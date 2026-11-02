@@ -1,6 +1,6 @@
 # Get a phone number from abroad.
 
-British giffgaf telephone cards are no longer available for registration in China and are purchased on platforms such as poaching, salty fish and small-scale sharing. If it is not too much of a problem, go over the wall and register, use Taiwan as a transit station, and the delivery is sent to Taiwan and then to China.
+British giffgaf telephone cards are no longer available for registration in China and are purchased on platforms such as poaching, salty fish and small-scale sharing. If it is not too much of a problem, go over the wall and register, use Taiwan as a transit station, and the delivery is sent to Taiwan and then to China. China Cards are overseas, even if you open up a roving flow, and they can't visit certain apps like Google overseas. So why does this card become a demand for a lot of people?
 
 ## kitesim
 
