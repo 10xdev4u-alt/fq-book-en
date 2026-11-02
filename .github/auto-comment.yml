@@ -1,0 +1,23 @@
+# Comment to a new issue.
+issuesOpened: >
+  ### An artificial retard robot.
+    For local deployment, there is only one [preamble] sidebar to check if js block characters are correct.`loadSidebar:true`Whether or not the browser cache is cleared; or change the browser.
+    ```
+    <script>
+      window.$docsify = {
+        name: '',
+        repo: '',
+      <!--Here.-->
+        loadSidebar: true  
+      }
+    </script>
+    ```
+    **Note:`docsify init .`Format (initial)index.html configuration file, direct`docsify serve`Deployment is sufficient.
+    
+    ![](https://i.loli.net/2019/06/07/5cfa7580dd37a85112.gif)
+    Overtime Combater, by--[hoochanlon](https://hoochanlon.github.io/)
+
+issuesClosed: >
+  Van's funny!
+  
+  ![v2-f24_hd](https://img.techpowerup.org/190609/v2an.jpg)
