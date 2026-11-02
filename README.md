@@ -195,6 +195,7 @@ ProxyCommand socat - PROXY:127.0.0.1:%h:%p,proxyport=8848
 
 ```
 
+More proxy settings:[SunSeekerX's Notebook-Agent Setup](https://doc.yoouu.cn/basic/proxy.html)
 
 ## ***essays***
 
