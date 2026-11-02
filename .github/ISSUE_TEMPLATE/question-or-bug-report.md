@@ -1,62 +1,61 @@
 ---
-name: "问题反馈 / Question or Bug Report"
-about: "提问或反馈问题前，请务必按要求填写，否则可能会被直接关闭。"
-title: "[请简要概括你的问题，例如：本地部署后侧边栏为空]"
+name: "Question or Bug Report"
+about: "Please fill in the template as required before asking a question or reporting an issue, otherwise it may be closed directly."
+title: "[Briefly summarize your issue, e.g. empty sidebar after local deployment]"
 labels: ["question"]
 assignees: []
 ---
 
-> ⚠️ **发 issue 前请务必先确认以下事项：不按模板填写、信息严重不足的 issue 可能会被直接关闭。**
+> ⚠️ **Before opening an issue, please confirm all of the following: issues that don't follow the template or lack sufficient detail may be closed directly.**
 
-## 1. 这是哪一类问题？
+## 1. What kind of issue is this?
 
-- [ ] 本地部署 / docsify 配置问题
-- [ ] Git / GitHub 相关问题（例如 fork、同步上游）
-- [ ] 文档内容勘误或建议
-- [ ] 其他（请简要说明）：
+- [ ] Local deployment / docsify configuration
+- [ ] Git / GitHub related (e.g. fork, sync upstream)
+- [ ] Documentation error or suggestion
+- [ ] Other (please describe briefly):
 
-## 2. 你已经做过的自查（全部勾选后再提交）
+## 2. Self-checks you have already done (check all before submitting)
 
-- [ ] 我已仔细阅读仓库根目录 `README.md` 和 `docs/README.md`
-- [ ] 我已在已关闭 / 已开放的 issues 中搜索过，没有找到相同问题
-- [ ] 我已检查浏览器缓存 / 更换浏览器重试
-- [ ] 我已检查本地环境（Node、npm、网络、代理等）是否正常
+- [ ] I have carefully read the root `README.md` and `docs/README.md`
+- [ ] I have searched closed / open issues and found no matching problem
+- [ ] I have cleared the browser cache / retried in another browser
+- [ ] I have checked the local environment (Node, npm, network, proxy, etc.)
 
-> 若以上任意一项未完成，请先处理完再提 issue。
+> If any of the above is not completed, please handle it before opening the issue.
 
-## 3. 复现步骤 / 操作过程（必填）
+## 3. Reproduction steps / process (required)
 
-请尽量详细、按步骤描述你是如何操作的，例如：
-1. 克隆 / fork 仓库到本地……
-2. 在 `docs` 目录执行 `docsify serve .`……
-3. 打开浏览器访问 `http://localhost:3000`……
+Please describe in detail, step by step, what you did, for example:
+1. Clone / fork the repository locally...
+2. Run `docsify serve .` in the `docs` directory...
+3. Open `http://localhost:3000` in the browser...
 
-## 4. 实际结果 vs 预期结果（必填）
+## 4. Actual result vs expected result (required)
 
-**实际结果（What happened）：**
+**Actual result (what happened):**
 
-（例如：侧边栏只有“前言”，其他目录不显示；页面报某某错误等）
+(e.g. the sidebar only shows "Foreword" and other chapters are missing; or a specific error appears)
 
-**预期结果（What you expected）：**
+**Expected result (what you expected):**
 
-（例如：希望侧边栏正常显示全部章节）
+(e.g. the sidebar should display all chapters normally)
 
-## 5. 环境信息（必填）
+## 5. Environment (required)
 
-- 操作系统及版本（例如：Windows 10 / macOS 14 / Ubuntu 22.04）：
-- 浏览器及版本（例如：Chrome 121 / Edge 120 等）：
-- Node 版本（`node -v` 输出）：
-- npm / pnpm / yarn 版本：
-- 是否使用了代理 / VPN（是 / 否，如是请简要说明类型和软件）：
+- Operating system and version (e.g. Windows 10 / macOS 14 / Ubuntu 22.04):
+- Browser and version (e.g. Chrome 121 / Edge 120):
+- Node version (output of `node -v`):
+- npm / pnpm / yarn version:
+- Did you use a proxy / VPN (yes / no; if yes, brief type and software):
 
-## 6. 关键截图 / 日志（强烈建议提供）
+## 6. Key screenshots / logs (strongly recommended)
 
-- 如有浏览器控制台报错，请粘贴报错信息或截图
-- 如有命令行报错，请粘贴完整命令及输出
+- If there are browser console errors, paste the error or a screenshot
+- If there are command-line errors, paste the full command and output
 
-（在此处附上）
+(attach here)
 
 ---
 
-> 提示：**简单一句“不能用”“挂了”这类描述属于无效 issue，会被机器人或维护者直接关闭。**
-
+> Note: **Issues described only as "doesn't work" or "it's broken" are considered invalid and may be closed directly by the bot or maintainers.**

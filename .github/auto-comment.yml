@@ -1,23 +1,23 @@
 # Comment to a new issue.
 issuesOpened: >
-  ### 人工智障机器人 屌丝plus 提示：
-    关于本地部署后，侧边栏只有一项[前言]，先检查js代码块字符是否正确，`loadSidebar:true`是否一致，浏览器缓存是否清理；或换个浏览器吧。
+  ### Bot note (docsify tips):
+    If the sidebar shows only one item [Foreword] after local deployment, first check that the JS code block characters are correct, that `loadSidebar: true` is consistent, and clear the browser cache; or try a different browser.
     ```
     <script>
       window.$docsify = {
         name: '',
         repo: '',
-      <!--此处-->
-        loadSidebar: true  
+      <!-- here -->
+        loadSidebar: true
       }
     </script>
     ```
-    **注意: `docsify init .` 会格式化（初始化）index.html 配置文件，直接`docsify serve`部署即可 ╮(╯▽╰)╭**
-    
+    **Note: `docsify init .` will reformat (initialize) the index.html config file; just run `docsify serve` to deploy.**
+
     ![](https://i.loli.net/2019/06/07/5cfa7580dd37a85112.gif)
-    -- 超时空战士 屌丝plus 作者 by [hoochanlon](https://hoochanlon.github.io/)
+    -- Maintainer note by [hoochanlon](https://hoochanlon.github.io/)
 
 issuesClosed: >
-  van分的有趣！
-  
+  Have fun!
+
   ![v2-f24_hd](https://img.techpowerup.org/190609/v2an.jpg)
