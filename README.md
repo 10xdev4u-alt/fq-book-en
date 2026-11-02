@@ -4,9 +4,7 @@
 |:-:|:-:|
 
 > [!important]
-> Most of the sites that are examples of the book, as well as more information available[hamuleite](https://github.com/hoochanlon/hamuleite), the relevant sections of the book are stored together Library`Scientific Internet access`It'll do better!
->
-> Recommended network switching and computing software:[Ip-Switch](https://github.com/hoochanlon/Ip-Switch)I don't know.[network-calculator](https://github.com/hoochanlon/network-calculator)I don't know.
+> Most of the sites that are examples of the book, as well as more information available[hamuleite](https://github.com/hoochanlon/hamuleite), recommends network switching and computing software:[Ip-Switch](https://github.com/hoochanlon/Ip-Switch)I don't know.[network-calculator](https://github.com/hoochanlon/network-calculator)I don't know.
 >
 > I have to say,[Pawdroid/Free-servers](https://github.com/Pawdroid/Free-servers)This free ladder is amazing.[LancelotRar/free-subs](https://github.com/LancelotRar/free-subs)It is also possible to build nodes.[DiningFactory/panda-vpn-pro](https://github.com/DiningFactory/panda-vpn-pro)Low-cost airports are an option.
 >
