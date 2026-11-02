@@ -1,4 +1,4 @@
-# This book will connect you to the Internet.
+# Network Agent and VPN Application Detail
 
 |[![cc](https://i.creativecommons.org/l/by-nc/4.0/80x15.png)](http://creativecommons.org/licenses/by-nc/4.0/)|[![fq-book](https://img.shields.io/badge/%F0%9F%93%96book-fq--book-red.svg?longCache=true&style=flat-square)](https://hoochanlon.github.io/fq-book)|[![blog](https://img.shields.io/badge/%F0%9F%94%97blog-hoochanlon-lightgrey.svg?longCache=true&style=flat-square)](https://hoochanlon.github.io/)| [![outlook](https://img.shields.io/badge/%F0%9F%93%A7hotmail-@邮箱联系-blue.svg?longCache=true&style=flat-square)](mailto:hoochanlon@outlook.com) |[![telegram](https://img.shields.io/badge/telegram-:me-blue.svg?longCache=true&style=flat-square)](https://t.me/hoochanlon)|[![stars](https://img.shields.io/github/stars/hoochanlon/fq-book.svg?style=social)](https://github.com/hoochanlon/fq-book)
 |:-:|:-:|:-:|:-:|:-:|:-:|
@@ -17,7 +17,7 @@ The book focuses on ways to access the Internet and on techniques for accessing 
 
 ## ***update***
 
-This book will connect you to the Internet.->This book will connect you to the second point of the update:
+This book will connect you to the Internet.->Key points for an update of Network Agent and VPN Applications:
 
 * Increased speed of science online
 * Increased access and software configuration
@@ -46,7 +46,6 @@ Release!: Change to 100 degrees, Ali, DNS, and use ipconfig/flushdns to refresh 
 * 100 degrees DNS: 180.76.76.76
 * Ali DNS: 223.5.5.5, 223.6.6.6.6
 * DNS: 119.29.29.29, 182.254.116.116
-
 
 ## ***usage***
 
@@ -135,9 +134,7 @@ Commit to Repo
 
 </details>
 
-### Proxy Settings and Component Download
-
-*** Proxy Settings***
+### Proxy Settings
 
 ```
 # guit Client Proxy Settings
@@ -145,6 +142,8 @@ git config --global http.proxy 'socks5://127.0.0.1:1080'
 git config --global https.proxy 'socks5://127.0.0.1:1080'
 
 # guit client cancel proxy
+git config --global --unset https.proxy
+git config --global --unset http.proxy
 git config --global --unset https.proxy 'socks5://127.0.0.1:1080'
 git config --global --unset http.proxy 'socks5://127.0.0.1:1080'
 
@@ -174,18 +173,15 @@ ProxyCommand socat - PROXY:127.0.0.1:%h:%p,proxyport=8848
 
 ```
 
-*** Download component ***
 
-```
+## ***essays***
 
-# npm/ yarn can be used as a mirror.
-npm install -g cnpm --registry=https://registry.npm.taobao.org
-yarn config set registry https://registry.npm.taobao.org
----
-# python Install Source
-pip install pip -U
-pip config set global.index-url https://pypi.douban.com/simple/
-```
+Set up HOSTS, DNS software, recommended:[SwitchHosts](https://github.com/oldj/SwitchHosts)(Import GitHub hosts available)[ineo6/hosts](https://github.com/ineo6/hosts)I'm sorry.[DNSCrypt](https://github.com/DNSCrypt/dnscrypt-proxy)I don't care how the proxy and vpn change. VPN, Proxy and something new.[clashios](https://clashios.com/about-me/)The software that was mentioned was also available.
+
+In terms of downloading components, some of the people who like to manipulate the configuration of the environment have naturally learned some lessons that are written in projects, such as:[homebrew-install](https://github.com/ineo6/homebrew-install)I don't know.[Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)I don't know.[package-manager-proxy-settings](https://github.com/comwrg/package-manager-proxy-settings)I don't know.
+
+[SteamTools](https://github.com/BeyondDimension/SteamTools)Game accelerators, basic community shops, community news browsing for steam, all right, free of charge, after all.[dogfight360](https://www.dogfight360.com/blog/475/#comment-25207)UsbEAm Hosts Editor also works to speed up access to the video-cheat. And a popex hero (iOS/iPados version) can actually play with a little rocket, though it's locked up.
+
 
 ## ***mind you*** 
 

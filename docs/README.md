@@ -17,7 +17,3 @@ This book is dedicated to people who love the Internet.
 
 ***[About Me](https://hoochanlon.github.io/hoochanlon)***
 
-### Self-extend
-
-* ["PocketWire"](https://hoochanlon.github.io/helpdesk-guide/)
-* [" Reading the script to think about project management "](https://github.com/hoochanlon/reading-pm-by-lib)
