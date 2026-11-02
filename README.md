@@ -140,16 +140,12 @@ Commit to Repo
 
 #### Agent.
 
-guit Client Proxy Settings
+guit client proxy settings, and cancel proxy
 
 ```
 git config --global http.proxy 'socks5://127.0.0.1:1080' && \
 git config --global https.proxy 'socks5://127.0.0.1:1080'
-```
 
-guit client cancel proxy
-
-```
 git config --global --unset https.proxy
 git config --global --unset http.proxy
 ```
@@ -162,15 +158,11 @@ git clone --depth=1  https://github.com/你的用户名/你的repo.git
 
 #### Mac Terminal
 
-Proxy Settings for Mac Terminals (http://https.int)
+Agent Settings for Mac Terminals (http://https.int) and Cancel Agent
 
 ```
 export ALL_PROXY=socks5://127.0.0.1:1080
-```
 
-Terminal Cancel Agent
-
-```
 unset ALL_PROXY"
 ```
 
@@ -180,8 +172,7 @@ Even if the proxy software were to be in a global mode, the terminal would not b
 curl cip.cc
 ```
 
-
-#### Attach ssh
+#### ssh
 
 ```
 ## gthub ssh configuration
@@ -192,10 +183,9 @@ ProxyCommand socat - PROXY:127.0.0.1:%h:%p,proxyport=8848
 
 ## Socks5 Proxy
  ProxyCommand nc -v -x 127.0.0.1:1080 %h %p
-
 ```
 
-More proxy settings:[SunSeekerX's Notebook-Agent Setup](https://doc.yoouu.cn/basic/proxy.html)
+More proxy settings:[SunSeekerX's Notebook-Agent Setup](https://doc.yoouu.cn/basic/proxy.html)(2024. 1.12)
 
 ## ***essays***
 
