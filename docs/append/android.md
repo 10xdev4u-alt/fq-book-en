@@ -24,6 +24,8 @@ Here is a downloading site for Google stores:[uptodown](https://www.uptodown.com
 
 Sooner or later, in order to freely use integrated AI's apple phones in the country, like WiFi's initial use of free Internet access in the country, it will have to be purchased abroad, returning to the era of water supplies. It's easy to buy an overseas version of a mobile phone, "How to buy a Hong Kong apple? " at Station B, Yotube. It's like this one-stop learning that comes out. It's not as much trouble as gathering information.
 
+## Whisper. Gotokawa.
+
 <dd>This is the time of Myanmar.</dd>
 <dd>In the midst of "purity" and "unconsciousness",</dd>
 <dd>It's just a matter of time.</dd>
