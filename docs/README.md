@@ -17,4 +17,6 @@ This book is dedicated to people who love the Internet.
 
 ### Outreach
 
-New book[Desktop Transport Management Guide](https://hoochanlon.github.io/helpdesk-manual/)Published, PUA operational profile, decomposition of operations of small and medium-sized outsourcing companies, re-thinking HR, introduction to social engineering, anti-deception research. Welcome Star.
+New book[Desktop Transport Management Guide](https://hoochanlon.github.io/helpdesk-manual/)A special section on social engineering has been published to prevent the “replacement” of a training package on lending fraud and to re-think HR and study the basic practice of social engineering against deception. They also benefit from employment for former students and new entrants who have no experience.
+
+Welcome to Star & Fork[helpdesk-manual](https://github.com/hoochanlon/helpdesk-manual)Project!
