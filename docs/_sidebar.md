@@ -40,7 +40,6 @@
   * [Betternet](vpn/betternet.md)
   * [Typical VPN overview](vpn/classical-vpn.md)
   * [wireguard](vpn/wireguard.md)
-  * [VPN reference list](vpn/pay-vpn.md)
 
 * Website
   * [Search site](web/searchtools.md)
