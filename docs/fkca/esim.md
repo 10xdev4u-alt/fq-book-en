@@ -26,6 +26,8 @@ Entity number validation platform:https://www.phonevalidator.com/index.aspx
 
 ## X-esim + esimplus
 
+!>5ber is already on the run, and we can't find a second app to support esim.
+
 This method allows regular mobile phones to upgrade E-SIM and supports texting codes, as well as access to the Internet using traffic.
 
 Website:
