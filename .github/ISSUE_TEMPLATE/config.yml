@@ -1,0 +1,6 @@
+blank_issues_enabled: false
+contact_links:
+  - Name: Common / FAQ
+    url: https://github.com/hoochanlon/fq-book#readme
+    about: Prioritize the README and the instructions in the document in which most deployment questions can be answered.
+

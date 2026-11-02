@@ -1,6 +1,6 @@
 # Modify hosts query Wikipedia
 
-!>In the early years, the GFW shielded web site was not many and the means were limited to pollution, and modifications were effective only for contaminated sites currently configured.
+!>In the early years, the GFW shielded web site was not many and the means were limited to pollution, and modifications were effective only for contaminated sites currently configured. Recommended[Ip Switch](https://github.com/hoochanlon/Ip-Switch)Change hosts more easily
 
 
 Utilizationhttps://www.ipaddress.comAsk for Wikipedia-related ip and find it.`C:\Windows\System32\drivers\etc\host`Open it.
