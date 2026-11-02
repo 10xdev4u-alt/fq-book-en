@@ -113,6 +113,7 @@
    * [America's ID buys small rockets.](fkca/apple-ssr.md)
    * [Examples of external cloud servers using ladders](fkca/ss-server.md)
    * [A record of success after several failures in the first set-up of the site](fkca/jianzhan.md)
+   * [Get a simple tutorial on a foreign phone](fkca/esim.md)
 
 * This posthumous note
 
