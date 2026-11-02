@@ -4,8 +4,8 @@
 }
 
 .sidebar .search .clear-button {
-    margin: 10px;
-    padding: 0 0px;
+    margin: 10px !important;
+    padding: 0 0px !important;
 }
 
 / * The movement side is completely hidden, click on the icon */
