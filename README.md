@@ -47,6 +47,7 @@ Release!: Change to 100 degrees, Ali, DNS, and use ipconfig/flushdns to refresh 
 * Ali DNS: 223.5.5.5, 223.6.6.6.6
 * DNS: 119.29.29.29, 182.254.116.116
 
+Just a few words: the software for setting up HOSTS, DNS, recommended:[SwitchHosts](https://github.com/oldj/SwitchHosts)I don't know.[DNSCrypt](https://github.com/DNSCrypt/dnscrypt-proxy)I think whatever the proxy and vpn change, these two settings are always needed. In addition,[SteamTools](https://github.com/BeyondDimension/SteamTools)Game accelerators, basic community shops and community news browsing for steam are very good, after all, free.
 
 ## ***usage***
 
@@ -135,7 +136,7 @@ Commit to Repo
 
 </details>
 
-### Proxy Settings and Component Download
+### Proxy Settings and Component Download (follow-up reference)
 
 *** Proxy Settings***
 
@@ -145,6 +146,8 @@ git config --global http.proxy 'socks5://127.0.0.1:1080'
 git config --global https.proxy 'socks5://127.0.0.1:1080'
 
 # guit client cancel proxy
+git config --global --unset https.proxy
+git config --global --unset http.proxy
 git config --global --unset https.proxy 'socks5://127.0.0.1:1080'
 git config --global --unset http.proxy 'socks5://127.0.0.1:1080'
 
@@ -186,6 +189,8 @@ yarn config set registry https://registry.npm.taobao.org
 pip install pip -U
 pip config set global.index-url https://pypi.douban.com/simple/
 ```
+
+Of course, some of the people who like to manipulate the configuration of the environment have naturally learned some lessons that are written in projects, such as:[homebrew-install](https://github.com/ineo6/homebrew-install)I don't know.[Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)I don't know.[package-manager-proxy-settings](https://github.com/comwrg/package-manager-proxy-settings)I don't know.
 
 ## ***mind you*** 
 
