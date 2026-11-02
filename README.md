@@ -1,16 +1,16 @@
 # This book will connect you to the Internet.
 
-|[![cc](https://i.creativecommons.org/l/by-nc/4.0/80x15.png)](http://creativecommons.org/licenses/by-nc/4.0/)|[![fq-book](https://img.shields.io/badge/%F0%9F%93%96book-fq--book-red.svg?longCache=true&style=flat-square)](https://hoochanlon.github.io/fq-book)|
+|[![cc](https://i.creativecommons.org/l/by-nc/4.0/80x15.png)](http://creativecommons.org/licenses/by-nc/4.0/)|[![fq-book](https://img.shields.io/badge/%F0%9F%93%96book-fq--book-red.svg?longCache=true&style=flat-square)](https://10xdev4u-alt.github.io/fq-book-en/)|
 |:-:|:-:|
 
 > [!important]
-> Most of the sites that are examples of the book, as well as more information available[hamuleite](https://github.com/hoochanlon/hamuleite), recommends network switching and computing software:[Ip-Switch](https://github.com/hoochanlon/Ip-Switch)I don't know.[network-calculator](https://github.com/hoochanlon/network-calculator)I don't know.
+> Most of the example sites in this book, plus additional resources, are collected in [hamuleite](https://github.com/hoochanlon/hamuleite). Recommended network-switching and IP-calculator tools: [Ip-Switch](https://github.com/hoochanlon/Ip-Switch) and [network-calculator](https://github.com/hoochanlon/network-calculator).
 >
-> I have to say,[Pawdroid/Free-servers](https://github.com/Pawdroid/Free-servers)I don't know.[YoulianBoshi/vpn](https://github.com/YoulianBoshi/vpn)These free ladders are amazing.[LancelotRar/free-subs](https://github.com/LancelotRar/free-subs)It is also possible to build nodes.[DiningFactory/panda-vpn-pro](https://github.com/DiningFactory/panda-vpn-pro)Low-cost airports are an option.
+> I have to say, these free ladders (proxies) are amazing: [Pawdroid/Free-servers](https://github.com/Pawdroid/Free-servers) and [YoulianBoshi/vpn](https://github.com/YoulianBoshi/vpn). You can also build your own nodes with [LancelotRar/free-subs](https://github.com/LancelotRar/free-subs), or use low-cost airports like [DiningFactory/panda-vpn-pro](https://github.com/DiningFactory/panda-vpn-pro).
 >
-> [clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)We've got VPN and thousands of configurations.[mihomo_yamls](https://github.com/HenryChiao/mihomo_yamls)Too strong.
+> Proxy software has evolved to provide VPN-level functionality: [clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev), plus thousands of configs in [mihomo_yamls](https://github.com/HenryChiao/mihomo_yamls). Too strong.
 >
-> With the arrival of the AI age,[panxunying/ai-coding-welfare](https://github.com/panxunying/ai-coding-welfare)I know some I.A. Coding, welfare station navigation is not bad. I use salted fish...
+> With the AI era, [panxunying/ai-coding-welfare](https://github.com/panxunying/ai-coding-welfare) is a decent navigation for AI coding welfare stations. I use Xianyu...
 
 ## ***intro***
 
@@ -56,10 +56,10 @@ Release!: Change to 100 degrees, Ali, DNS, and use ipconfig/flushdns to refresh 
 
 ### Online deployment
 
-1. Fork, this book, it's yours.
-2. Modify docs/index.html to`window.$docsify = {}`Yes.`repo`Change to your repo
-3. Find GitHub Pages in settings and choose`master brach/docs folder` 
-4. Visits`https://yourGitHub username.github.io/fq-book`You can see the effect.
+1. Fork this book — it's yours.
+2. Edit `docs/index.html`: in `window.$docsify = {}`, change `repo` to your repo.
+3. In Settings, enable GitHub Pages and choose `main branch /docs folder`.
+4. Visit `https://<your-github-username>.github.io/fq-book` to see the result.
 
 <details><summary>Take the example of you.</summary>
 
