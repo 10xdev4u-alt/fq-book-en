@@ -109,6 +109,7 @@
   * [How to get ladders online](method/get-method.md)
  
  * Special (Chikatetsu Teikou Shugi)
+   
    * [Get a phone number from abroad.](fkca/esim.md)
    * [A record of success after several failures in the first set-up of the site](fkca/jianzhan.md)
    * [Start a virtual credit card search.](fkca/mastercard.md)
@@ -116,6 +117,7 @@
    * [Examples of external cloud servers using ladders](fkca/ss-server.md)
    * [Access via proxy IP combined fingerprint browser](fkca/fxxkcxxxa.md)
    * [More than exploring APN.](fkca/apn.md)
+
 
 * This posthumous note
 
