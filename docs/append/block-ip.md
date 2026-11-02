@@ -14,5 +14,9 @@ But the party’s subjective mobility is quite powerful, and can be said to be a
 
 So far, from gfwlist.`pac.txt`The document was informed that there were 6969 blocked domain names sites, a number that has continued to grow over time, or that the country is essentially a complete LAN.
 
+The following website can also refer to whether the domain name has been blocked by China:
+
+* https://viewdns.info/chinesefirewall
+* https://www.top10vpn.com/tools/blocked-in-china
 
 
