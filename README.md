@@ -199,7 +199,5 @@ The book allows for performance and sharing but prohibits commercial use, and ci
 * This writing is intended for overseas Chinese users and is for scientific research and study only and is not intended for other purposes
 * The Chinese people are asking themselves to shut down the book and to delete all its contents within 24 hours, otherwise the author of the book will not be responsible for any consequences.
 
-© 2019 [hoochanlon](https://github.com/hoochanlon)
-
 
 
