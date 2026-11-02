@@ -166,11 +166,7 @@ export ALL_PROXY=socks5://127.0.0.1:1080
 unset ALL_PROXY"
 ```
 
-Even if the proxy software were to be in a global mode, the terminal would not be a proxy and would need to be set up separately. In addition, the Mac terminal set up the proxy Git to be free of the setup. This is available.https://cip.ccTo determine if the software went through the proxy channel.
-
-```
-curl cip.cc
-```
+Even if the proxy software were to be in a global mode, the terminal would not be a proxy and would need to be set up separately. In addition, the Mac terminal set up the proxy Git to be free of the setup. This is available.`curl cip.cc`To determine if the software went through the proxy channel.
 
 #### ssh
 
@@ -185,7 +181,7 @@ ProxyCommand socat - PROXY:127.0.0.1:%h:%p,proxyport=8848
  ProxyCommand nc -v -x 127.0.0.1:1080 %h %p
 ```
 
-More proxy settings:[SunSeekerX's Notebook-Agent Setup](https://doc.yoouu.cn/basic/proxy.html)(2024.1.12)
+More proxy settings:[SunSeekerX's Notebook-Agent Setup](https://doc.yoouu.cn/basic/proxy.html)/ See:[v2ex - Why is CMD still Ping not working Google?](https://www.v2ex.com/t/877527)(2024.1.12)
 
 ## ***essays***
 
