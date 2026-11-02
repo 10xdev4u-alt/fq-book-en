@@ -14,9 +14,20 @@ But the party’s subjective mobility is quite powerful, and can be said to be a
 
 So far, from gfwlist.`pac.txt`The document was informed that there were 6969 blocked domain names sites, a number that has continued to grow over time, or that the country is essentially a complete LAN.
 
-The following website can also refer to whether the domain name has been blocked by China:
+It is possible to detect whether IPs, domain names and ports are blocked in China through the following website. However, the GFW rarely directly seals IPs, and more often encapsulates domain names or triggers a ban (port is specifically blocked). However, once the IP is sealed, it is usually permanent unless the service provider changes the IP. Ports are sealed: some are sealed only for specific ports (e.g. 80/443), others are normal. These tools are based on domestic server nodes, influenced by the GFW and occasionally miscalculated; however, the combination of multiple tool results is generally accurate.
+
+Domain name:
 
 * https://viewdns.info/chinesefirewall
 * https://www.top10vpn.com/tools/blocked-in-china
 
+IP
+
+* https://www.vps234.com/ipchecker
+* https://www.itdog.cn
+
+IP and Port
+
+* https://www.toolsdaquan.com/ipcheck
+* https://ping.pe
 
