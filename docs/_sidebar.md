@@ -109,7 +109,6 @@
   * [How to get ladders online](method/get-method.md)
  
  * Special (Chikatetsu Teikou Shugi)
-   * [Chatgpt plus subscription method information collection](fkca/chatgpt.md)
    * [Start a virtual credit card search.](fkca/mastercard.md)
    * [America's ID buys small rockets.](fkca/apple-ssr.md)
    * [Examples of external cloud servers using ladders](fkca/ss-server.md)
