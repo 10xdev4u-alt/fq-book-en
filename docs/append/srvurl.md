@@ -55,7 +55,9 @@ As a result, the format is as follows:
 
 Sometimes you see a partial decodement.
 
-`159.65.1.189:5252:auth_sha1_v4:rc4-md5:http_simple:NTJzc3IubmV0/?obfsparam=&protoparam=&group=d3d3LnNzcnNoYXJlLmNvbQ&remarks=RE1fTm9kZQ`
+```
+159.65.1.189:5252:auth_sha1_v4:rc4-md5:http_simple:NTJzc3IubmV0/?obfsparam=&protoparam=&group=d3d3LnNzcnNoYXJlLmNvbQ&remarks=RE1fTm9kZQ
+```
 
 Of which`obfsparam`I don't know.`protoparam`I don't know.`group`I don't know.`remarks`It's optional or optional.
 

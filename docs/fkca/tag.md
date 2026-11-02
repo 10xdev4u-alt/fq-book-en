@@ -1,8 +1,6 @@
-# Last Tag.
+# Finally, Tag.
 
-When I was 24, my senior engineer's certificate turned into waste paper, but now it's in toilet paper.https://hoochanlon.github.io/aitii-tekisuto/datacom/pc/3-ip-address-subnet-mask-gatewayPartly.
-
-The day I got my senior engineer's certificate in the big factory, I took a photo and sent a circle of friends, and the text was, "Get out." At that time, he thought that he had finally saved enough “unreplaceable” chips to breathe from now on, and that he would not need to worry about being optimized as he was in his 30s. In less than two years, a new round of “organization optimization” has emerged.
+When I was 24 years old, my senior engineer's certificate turned into a piece of paper, but now it's a toilet paper, comparable to 80S's middle school... on the day I got my senior engineer's certificate in the big factory, I took a photo and sent a circle of friends, and the text was, "Get out." At that time, he thought that he had finally saved enough “unreplaceable” chips to breathe from now on, and that he would not need to worry about being optimized as he was in his 30s. In less than two years, a new round of “organization optimization” has emerged.
 
 I'm beginning to wonder what these years are all about. At one time, I thought, “If the technology is hard enough, it will not be abandoned”. Later on, it became clear that in most of China's factories and in the world of work in traditional large plants, the real decision was whether or not you could stay in the sort of order that would probably be:
 

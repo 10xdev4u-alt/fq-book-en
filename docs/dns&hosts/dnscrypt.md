@@ -1,6 +1,6 @@
 # DNSCrypt Open Forum Site
 
-!>Currently, most of the SS sharing sites or VPN networks are predominantly contaminated, so they can be used to open most of these related sites and to download VPNs or configure proxies to connect to the Internet; however, it is important to note that websites such as Google are not accessible.<br><br>
+> [!note] Currently, most of the SS sharing sites or VPN networks are predominantly contaminated, so they can be used to access most of these related sites and to download VPNs or configure proxies to connect to the Internet; however, it is important to note that websites such as Google, such as IP sites, cannot be opened.<br><br>
 In addition, please look at the relevant sections on science and additions (ps: the Forum is now p. 2019), if more in-depth information is needed, etc.
 
 Open DNSCrypt service and card options
@@ -27,4 +27,4 @@ Test
 
 ![](https://i.postimg.cc/qRfhG5CK/2018-04-29-1.png)
 
-?>But it needs to be noted that DNSCrypt often sets the computer dns as`127.0.0.1`Use the local DNS parsing server as a cache, thereby accelerating the resolution efficiency; when closing down or closing the DNSCrypt, check the computer DNS configuration and replace it with an automatic acquisition or original DNS configuration address.
+> [!note] But it needs to be noted that DNSCrypt often sets the computer dns into`127.0.0.1`Use the local DNS parsing server as a cache, thereby accelerating the resolution efficiency; when closing down or closing the DNSCrypt, check the computer DNS configuration and replace it with an automatic acquisition or original DNS configuration address.

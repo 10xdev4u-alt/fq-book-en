@@ -15,5 +15,5 @@ Because of the need to use jakarta-related products and content, etc.; so far, t
 
 This book is dedicated to people who love the Internet.
 
-***[About Me](https://hoochanlon.github.io/home)***
+***[About Me](https://hoochanlon.github.io/hoochanlon/hcl/index.html)***
 

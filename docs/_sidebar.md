@@ -1,45 +1,49 @@
 * About the book.
-
   * [Foreword](README.md)
 
 * Information on reading
-  
   * [4GFW](look/4gfw.md)
   * [Attention](look/notice.md)
   * [Privacy protection](look/nsfw.md)
 
 * Quick Start
-
   * [Let's go fast.](qintro/quickstart.md)
 
-* DNS, Hosts
+* Methodology
+  * [How to get ladders online](method/get-method.md)
+  * [Get a phone number from abroad.](fkca/esim.md)
+  * [Start a virtual credit card search.](fkca/mastercard.md)
+  * [America's ID buys small rockets.](fkca/apple-ssr.md)
+  * [Examples of external cloud servers using ladders](fkca/ss-server.md)
+  * [Access via proxy IP combined fingerprint browser](fkca/fxxkcxxxa.md)
+  * [Could not close temporary folder: %s](fkca/ipdodo-gemini.md)
+  * [Unable to use Gemini](fkca/myself-gemini.md)
+  * [Offshore patriotism, digital diaspora, decoupling and double blockade](fkca/gougong.md)
+  * [The Zero-According and Capital Privileges of the Transnational Layer](fkca/gougongnuchubuzhoushan.md)
 
+* DNS, Hosts
   * [DNSCrypt](dns&hosts/dnscrypt.md)
   * [DNS](dns&hosts/dns.md)
   * [hosts](dns&hosts/hosts.md)
 
-
 * Browse Applications
-
   * [chrome](browse/chrome.md)
   * [opera](browse/opera.md)
   * [Tor (firefox)](browse/tor-firefox.md)
   * [puffin](browse/puffin.md)
   * [zeronet](browse/zeronet.md)
 
-* Proxy Tool
+* VPN software
+  * [Betternet](vpn/betternet.md)
+  * [Typical VPN overview](vpn/classical-vpn.md)
+  * [wireguard](vpn/wireguard.md)
 
+* Proxy Tool
   * [SS/SSR](proxy/ss-ssr.md)
   * [v2ray](proxy/v2ray.md)
   * [proxifier](proxy/proxifier.md)
   * [privoxy](proxy/privoxy.md)
   * [SSH-Tunnel](proxy/SSH-Tunnel.md)
-
-* VPN software
-
-  * [Betternet](vpn/betternet.md)
-  * [Typical VPN overview](vpn/classical-vpn.md)
-  * [wireguard](vpn/wireguard.md)
 
 * Website
   * [Search site](web/searchtools.md)
@@ -57,8 +61,12 @@
   * [Faith in going to the center network.](ipfs/belief.md)
   * [Why is it important to go to the center?](ipfs/why.md)
 
-* Science outreach
+ 
+ * Special
+   * [More than APN](fkca/apn.md)
+   * [Finally, Tag.](fkca/tag.md)
 
+* Science outreach
   * [Software interconnection protocol](abc/connection.md)
   * [DNS hijacking and pollution](abc/4dns.md)
   * [Summary of the digital certificate offensive](abc/dc_zhenshu.md)
@@ -76,7 +84,6 @@
   * [Why did you go over the wall and not have access to a website?](a123/rst-syscall.md)
 
 * Only to understand.
-
   * [accesser](cnnic/no-chn.md)
   * [goagent](only/goagent.md)
   * [gatherproxy](only/gatherproxy.md)
@@ -85,9 +92,7 @@
   * [reqrypt](only/reqrypt.md)
   * [barbaTunnel](only/barbaTunnel.md)
 
-
 * Details added
-
   * [ss#1130](append/ss1130.md)
   * [It's hard to block.](append/caoliu.md)
   * [A short talk about poison software.](append/guochan-sharuan.md)
@@ -100,31 +105,12 @@
   * [SS Level 2 (pre) proxy settings](append/ss-relay.md)
   * [Ss, ssr, v2ray Link Parsing](append/srvurl.md)
   * [With Win 7, computers are routers.](append/win7-wifi.md)
-
-* comma
-  * [commarip](doub/init_doub.md)
+  * [A record of success after several failures in the first set-up of the site](fkca/jianzhan.md)
   * [Conjecture about the current form of blockage of the GFW TCP blockade](doub/wkcjzpyd-2.md)
   * [Talk about HTTP hijacking, the impact of DNS pollution and solutions](doub/6t3mypbm-5.md)
-
-* Methodology
-  * [How to get ladders online](method/get-method.md)
  
- * Special (Chikatetsu Teikou Shugi)
-   
-   * [Get a phone number from abroad.](fkca/esim.md)
-   * [Start a virtual credit card search.](fkca/mastercard.md)
-   * [America's ID buys small rockets.](fkca/apple-ssr.md)
-   * [Examples of external cloud servers using ladders](fkca/ss-server.md)
-   * [Access via proxy IP combined fingerprint browser](fkca/fxxkcxxxa.md)
-   * [A record of success after several failures in the first set-up of the site](fkca/jianzhan.md)
-   * [More than exploring APN.](fkca/apn.md)
-   * [Last Tag.](fkca/tag.md)
-   * [Ex: Zero-competence and capital privileges in the rise of transnational class](fkca/gougongnuchubuzhoushan.md)
-
 * This posthumous note
-
   * [Note](postscript.md)
 
 * References
-
   * [Bibliography List](reference/literature.md)

@@ -2,7 +2,12 @@
 
 ## Speed Index
 
-!>First,**`Know the necessary proxy, VPN software configuration and usage`**, continued**`Access nodes using web-based proxy access to server-provided websites`** Or **`Offline to install Chrome proxy plugins and access the station to get nodes`**, again **`Methodology`** Configure proxy or VPN software for scientific access
+> [!tip] First,** understand the necessary proxy, VPN software configuration and usage**, and then ** use web-based proxy access to server-provided websites for nodes* * or **to install the Chrome proxy plugin offline and visit the station to get node**, and then to use the **methodology** configuration proxy or VPN software for scientific access.
+>
+> * ** There is a foundation **: A chapter of the methodology can be read directly, so that it can be quickly assimilated and reached, while other chapters complement and are optionally read.
+> * ** There is no basis for this.** It is suggested to skip the methodology, read the relevant VPN, the chapter on the use of proxy tools, etc., and to understand and practice the use of the tool and then look at the methodology.
+>
+> These two points are complementary.
 
 **<details><summary><font size="4">Master necessary proxy configuration and use of VPN</font></summary>** 
 
@@ -21,7 +26,7 @@
 
 </details>
 
-?>Quick start is only rapid interconnection, interpretation of various aspects, such as the details of how science goes online, and chapters on scientific outreach and detail supplementation in reference books Section
+>[!note] Quick start is only rapid interconnection, interpretation of the details of the scientific access, etc., relevant chapters of the reference book on scientific outreach and detail supplement Section
 
 
 ## Example:

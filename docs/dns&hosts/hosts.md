@@ -1,6 +1,8 @@
 # Modify hosts query Wikipedia
 
-!>In the early years, the GFW shielded web site was not many and the means were limited to pollution, and modifications were effective only for contaminated sites currently configured. Recommended[Ip Switch](https://github.com/hoochanlon/Ip-Switch)Change hosts more easily
+> [!important] Earlier, the GFW shielded web site was not very numerous and the means were limited to pollution, and changes to hosts were effective only for the currently contaminated site. Recommended[Ip Switch](https://github.com/hoochanlon/Ip-Switch)Modifying hosts is easier.
+>
+> Recommended for calculation of ip address[network-calculator](https://github.com/hoochanlon/network-calculator)
 
 
 Utilizationhttps://www.ipaddress.comAsk for Wikipedia-related ip and find it.`C:\Windows\System32\drivers\etc\host`Open it.
