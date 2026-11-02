@@ -8,9 +8,9 @@
 >
 > I have to say,[Pawdroid/Free-servers](https://github.com/Pawdroid/Free-servers)This free ladder is amazing.[LancelotRar/free-subs](https://github.com/LancelotRar/free-subs)It is also possible to build nodes.[DiningFactory/panda-vpn-pro](https://github.com/DiningFactory/panda-vpn-pro)Low-cost airports are an option.
 >
-> [clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)We've got VPN and thousands of configurations.[mihomo_yamls](https://github.com/HenryChiao/mihomo_yamls)Too strong. With the arrival of the AI age,[panxunying/ai-coding-welfare](https://github.com/panxunying/ai-coding-welfare)I know some I.A. Coding, welfare station navigation is not bad. I use salted fish...
+> [clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)We've got VPN and thousands of configurations.[mihomo_yamls](https://github.com/HenryChiao/mihomo_yamls)Too strong.
 >
-> Abouthttps://byoungd.github.io/upI don't know.[A guide to life.](https://github.com/byoungd/up)Maybe it's funny...
+> With the arrival of the AI age,[panxunying/ai-coding-welfare](https://github.com/panxunying/ai-coding-welfare)I know some I.A. Coding, welfare station navigation is not bad. I use salted fish...
 
 ## ***intro***
 
@@ -19,7 +19,6 @@ The book allows you to connect to the Internet (hereinafter referred to as " the
 * [Read](docs/README.md)
 * [Contents](docs/_sidebar.md)
 * [Note](docs/postscript.md)
-
 
 ## ***update***
 
@@ -203,5 +202,6 @@ The book allows for performance and sharing but prohibits commercial use, and ci
 * This writing is intended for overseas Chinese users and is for scientific research and study only and is not intended for other purposes
 * The Chinese people are asking themselves to shut down the book and to delete all its contents within 24 hours, otherwise the author of the book will not be responsible for any consequences.
 
-
+> [!note]
+> Next.[A guide to life.](https://github.com/byoungd/up)Maybe it's funny...
 
