@@ -64,8 +64,8 @@
    * [How to get ladders online](method/get-method.md)
    * [Get a phone number from abroad.](fkca/esim.md)
    * [Start a virtual credit card search.](fkca/mastercard.md)
-   * [Unable to use Gemini (ipdodo team programme)](fkca/ipdodo-gemini.md)
-   * [Lack of access to Gemini (personal use)](fkca/myself-gemini.md)
+   * [Could not close temporary folder: %s](fkca/ipdodo-gemini.md)
+   * [Unable to use Gemini](fkca/myself-gemini.md)
  
  * Special
    * [More than APN](fkca/apn.md)
