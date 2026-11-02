@@ -119,6 +119,24 @@ git push -u -f origin master
 
 Enter the account number & password to upload to your own repo to complete a remote update of Github account warehouse. ** More instructions, please see[Git Official Document](https://git-scm.com/book/zh/v2)** In exceptional circumstances, there may be a need for agency, mirror, light cloning settings
 
+<details><summary>Update Icon</summary>
+
+![](https://i.postimg.cc/YSY78GPL/Snipaste-2019-06-12-15-59-16.png)
+
+![](https://i.postimg.cc/pTrZRztp/Snipaste-2019-06-12-16-40-01.png)
+
+Deployment testing
+
+![](https://i.postimg.cc/dV1tRjrW/Snipaste-2019-06-12-16-42-04.png)
+
+Commit to Repo
+
+![](https://i.postimg.cc/tRkjrVX8/Snipaste-2019-06-12-16-43-37.png)
+
+</details>
+
+### Proxy Settings and Component Download
+
 *** Proxy Settings***
 
 ```
@@ -168,24 +186,6 @@ yarn config set registry https://registry.npm.taobao.org
 pip install pip -U
 pip config set global.index-url https://pypi.douban.com/simple/
 ```
-
-<details><summary>Update Icon</summary>
-
-![](https://i.postimg.cc/YSY78GPL/Snipaste-2019-06-12-15-59-16.png)
-
-![](https://i.postimg.cc/pTrZRztp/Snipaste-2019-06-12-16-40-01.png)
-
-Deployment testing
-
-![](https://i.postimg.cc/dV1tRjrW/Snipaste-2019-06-12-16-42-04.png)
-
-Commit to Repo
-
-![](https://i.postimg.cc/tRkjrVX8/Snipaste-2019-06-12-16-43-37.png)
-
-</details>
-
-
 
 ## ***mind you*** 
 
