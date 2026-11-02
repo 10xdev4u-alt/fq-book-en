@@ -111,11 +111,11 @@
  * Special (Chikatetsu Teikou Shugi)
    
    * [Get a phone number from abroad.](fkca/esim.md)
-   * [A record of success after several failures in the first set-up of the site](fkca/jianzhan.md)
    * [Start a virtual credit card search.](fkca/mastercard.md)
    * [America's ID buys small rockets.](fkca/apple-ssr.md)
    * [Examples of external cloud servers using ladders](fkca/ss-server.md)
    * [Access via proxy IP combined fingerprint browser](fkca/fxxkcxxxa.md)
+   * [A record of success after several failures in the first set-up of the site](fkca/jianzhan.md)
    * [More than exploring APN.](fkca/apn.md)
 
 
