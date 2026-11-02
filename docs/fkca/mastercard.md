@@ -1,8 +1,8 @@
 # Start a virtual credit card search.
 
-## Disclaimer
-
-> [!note] Data and information relating to all block chains of the book are for user studies and research only and do not constitute recommendations and a basis for any investment, legal or other areas. It is strongly recommended that you study, review, analyse and validate the content on your own, use the relevant data and content carefully and assume all the risks involved.
+> [!note] ** disclaimer**
+>
+> ** The data and information relating to the chain of all blocks of the book are for user studies and research purposes only and do not constitute recommendations and a basis for any investment, legal or other areas. It is strongly recommended that you study, review, analyse and validate the content on your own, use the relevant data and content carefully and assume all the risks involved. **
 
 ## Foreword
 
@@ -10,6 +10,9 @@ For reasons of time, there is no time to know how a virtual currency is produced
 
 1. Preservation: exchange rate fluctuations in the United States dollar due to geopolitical international relations
 1. Avoidance of censorship and related transaction disputes
+
+Digital immigration, that's a good word. There's also an offshore patriot. It's wonderful.
+
 
 ## Information extraction
 

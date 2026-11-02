@@ -18,7 +18,8 @@
   * [Access via proxy IP combined fingerprint browser](fkca/fxxkcxxxa.md)
   * [Could not close temporary folder: %s](fkca/ipdodo-gemini.md)
   * [Unable to use Gemini](fkca/myself-gemini.md)
-  * [Ex: Zero-competence and capital privileges in the rise of transnational class](fkca/gougongnuchubuzhoushan.md)
+  * [Today's offshore patriotism, digital diaspora, technology decoupling and double blockade in China](fkca/gougong.md)
+  * [The Zero-According and Capital Privileges of the Transnational Layer](fkca/gougongnuchubuzhoushan.md)
 
 * DNS, Hosts
   * [DNSCrypt](dns&hosts/dnscrypt.md)
