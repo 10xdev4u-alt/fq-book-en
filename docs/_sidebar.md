@@ -115,7 +115,7 @@
    * [America's ID buys small rockets.](fkca/apple-ssr.md)
    * [Examples of external cloud servers using ladders](fkca/ss-server.md)
    * [Access via proxy IP combined fingerprint browser](fkca/fxxkcxxxa.md)
-   * [APN](fkca/apn.md)
+   * [More than exploring APN.](fkca/apn.md)
 
 * This posthumous note
 
