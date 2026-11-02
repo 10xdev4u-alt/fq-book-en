@@ -136,32 +136,47 @@ Commit to Repo
 
 ### Proxy Settings
 
-```
-# guit Client Proxy Settings
-git config --global http.proxy 'socks5://127.0.0.1:1080'
-git config --global https.proxy 'socks5://127.0.0.1:1080'
+#### Agent.
 
-# guit client cancel proxy
+guit Client Proxy Settings
+
+```
+git config --global http.proxy 'socks5://127.0.0.1:1080' && \
+git config --global https.proxy 'socks5://127.0.0.1:1080'
+```
+
+guit client cancel proxy
+
+```
 git config --global --unset https.proxy
 git config --global --unset http.proxy
-git config --global --unset https.proxy 'socks5://127.0.0.1:1080'
-git config --global --unset http.proxy 'socks5://127.0.0.1:1080'
+```
 
-# guit line defaults to download the full historical version of the item, using light copying if you only care about the latest code and not previous history:
+guit line defaults to download the full historical version of the project, and low-speed friends can use light copying if they only care about the latest code and not previous history:
+
+```
 git clone --depth=1  https://github.com/你的用户名/你的repo.git
+```
 
----
-# Mac Terminal
+#### Mac Terminal
 
-export http_proxy="socks5://127.0.0.1:1080"
-export https_proxy="socks5://127.0.0.1:1080"
+Proxy Settings for Mac Terminals (http://https.int)
 
-## Set in. bahrc or.zshrc
-alias setproxy="export ALL_PROXY=socks5://127.0.0.1:1080"
-alias unsetproxy="unset ALL_PROXY"
+```
+export ALL_PROXY=socks5://127.0.0.1:1080
+```
 
----
-# ssh
+Terminal Cancel Agent
+
+```
+unset ALL_PROXY"
+```
+
+Even if the proxy software were to be in a global mode, the terminal would not be a proxy and would need to be set up separately. In addition, the Mac terminal set up the proxy Git to be free of the setup.
+
+#### Attach ssh
+
+```
 ## gthub ssh configuration
 ### https://help.github.com/articles/using-ssh-over-the-https-port/
 
