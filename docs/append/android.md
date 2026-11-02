@@ -20,6 +20,6 @@ Compared to PCs, mobile phone proxies or VPNs are significantly more time-bound 
 
 Here is a downloading site for Google stores:[uptodown](https://www.uptodown.com/android)
 
-## Ties are a kind of surveillance.
+## The Iron Curtain of Technology, Saber North Korea
 
-China is Saber North Korea and has its own Arirang phone. Sooner or later, as in the case of the domestic use of WiFi for free access to the Internet, it will be back to the era of overseas water purchases.
+It's Saber North Korea, with its own Arirang phone. Sooner or later, in order to freely use integrated AI's apple phones in the country, like WiFi's initial use of free Internet access in the country, it will have to be purchased abroad, returning to the era of water supplies. The kidnapping of the Anti-Fraud Center, in turn, is another area of publicity, but the number of fraudulent telephone calls remains high. It was then very efficient to clean up the fraud networks, and how many netizens did not speak the same way as Lord Yang.
