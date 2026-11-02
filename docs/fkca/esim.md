@@ -4,7 +4,7 @@ British giffgaf telephone cards are no longer available for registration in Chin
 
 ## kitesim
 
-Note: Some of the numbers are issued in minutes or more and are not immediately coded, suggesting direct contact with the passenger service within the APP. Neither the code nor the traffic package can be called.
+!>Note: Some of the numbers are issued in minutes or more and are not immediately coded, suggesting direct contact with the passenger service within the APP. Neither the code card nor the traffic card can be called. I can't get a text message from the kitesim card. Once the card is found to be useless, it would be better to look for other esim platforms.
 
 ### The flow function requires mobile phone support for esim
 
