@@ -140,16 +140,12 @@ Commit to Repo
 
 #### Agent.
 
-guit Client Proxy Settings
+guit client proxy settings, and cancel proxy
 
 ```
 git config --global http.proxy 'socks5://127.0.0.1:1080' && \
 git config --global https.proxy 'socks5://127.0.0.1:1080'
-```
 
-guit client cancel proxy
-
-```
 git config --global --unset https.proxy
 git config --global --unset http.proxy
 ```
@@ -162,26 +158,17 @@ git clone --depth=1  https://github.com/你的用户名/你的repo.git
 
 #### Mac Terminal
 
-Proxy Settings for Mac Terminals (http://https.int)
+Agent Settings for Mac Terminals (http://https.int) and Cancel Agent
 
 ```
 export ALL_PROXY=socks5://127.0.0.1:1080
-```
 
-Terminal Cancel Agent
-
-```
 unset ALL_PROXY"
 ```
 
-Even if the proxy software were to be in a global mode, the terminal would not be a proxy and would need to be set up separately. In addition, the Mac terminal set up the proxy Git to be free of the setup. This is available.https://cip.ccTo determine if the software went through the proxy channel.
+Even if the proxy software were to be in a global mode, the terminal would not be a proxy and would need to be set up separately. In addition, the Mac terminal set up the proxy Git to be free of the setup. This is available.`curl cip.cc`To determine if the software went through the proxy channel.
 
-```
-curl cip.cc
-```
-
-
-#### Attach ssh
+#### ssh
 
 ```
 ## gthub ssh configuration
@@ -192,9 +179,9 @@ ProxyCommand socat - PROXY:127.0.0.1:%h:%p,proxyport=8848
 
 ## Socks5 Proxy
  ProxyCommand nc -v -x 127.0.0.1:1080 %h %p
-
 ```
 
+More proxy settings:[SunSeekerX's Notebook-Agent Setup](https://doc.yoouu.cn/basic/proxy.html)/ See:[v2ex - Why is CMD still Ping not working Google?](https://www.v2ex.com/t/877527)(2024.1.12)
 
 ## ***essays***
 
