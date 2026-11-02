@@ -1,9 +1,14 @@
 # America's ID buys small rockets.
 
-## Registered Americaapple id
-
+## Foreword
 
 It has been three years since the American Zone was stolen, and this time it is firmly in its hands. I bought my Google account number, but AppleID would better register itself to prevent the mailbox from using its own cell phone number, mobile phone equipment, and the account number was stolen. Apple id was a little bit different from a registered Google account, when I thought that, like Yahoo Taiwan, I couldn't register USID with a domestic phone number, and I forgot which website it was. These steps are tantamount to dissolving a large number of people. It wasn't until today that I created the americans that I knew I was thinking too much...
+
+From this one.[iPhone/iPad V2ray/SS Overwall APP Curriculum](https://fanqiang.gitbook.io/fanqiang/ios/potatsolite)From the documents, it appears that there are more tools to go over the wall than there were in 18 years. I'll take a look in.[Register Apple ID account and purchase APP guidelines](https://fanqiang.gitbook.io/fanqiang/ios/appleid)It seems that, several years later, when Lee Hongzhi's teacher, who is the author of the circumvention course, the wheel campaign has become much more hidden, with little evidence of the wheel, except for the story of the circumvention, and I don't want the 18-year event, which is very white, and basically every page has a message about it. Now you don't care about it, you don't even care about it, you don't have a lot of back-to-back lessons from computers to mobile phones, routers and so on.
+
+Now there's another one.https://ihmily.github.io/proxy-guideIt looks more like a book, a system, but most people tend to open the box.
+
+## Registered Americaapple id
 
 The registration of port ID for the purpose of killing the minarets, and the entry of App Store found that it had not been transferred to the United States. Curriculum reference:
 
@@ -92,9 +97,8 @@ btw:
 
 From[PayPal Registered Curriculum](https://www.bilibili.com/video/BV1ye4HzXE1A)The comment area is covered by information: the everything that's going on is in Dapuca, the global renminbi is going to pay, the US dollar is going to be tied up, but the US is going to google. Yeah.[The U.K. Bo card giffgaff suddenly suspended sending the real card to China.](https://www.bilibili.com/video/BV1Rs2MBcE3n)My feeling is that “unprofitable and unwelcome” when more people know about it.
 
-#### If it's temporary,
 
-From this one.[iPhone/iPad V2ray/SS Overwall APP Curriculum](https://fanqiang.gitbook.io/fanqiang/ios/potatsolite)From the documents, it appears that there are more tools to go over the wall than there were in 18 years. I'll take a look in.[Register Apple ID account and purchase APP guidelines](https://fanqiang.gitbook.io/fanqiang/ios/appleid)It seems that, several years later, when Lee Hongzhi's teacher, who is the author of the circumvention course, the wheel campaign has become much more hidden, with little evidence of the wheel, except for the story of the circumvention, and I don't want the 18-year event, which is very white, and basically every page has a message about it. Now you don't care about it, you don't even care about it, you don't have a lot of back-to-back lessons from computers to mobile phones, routers and so on.
+
 
 
 
