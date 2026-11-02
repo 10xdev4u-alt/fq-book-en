@@ -205,3 +205,6 @@ The book allows for performance and sharing but prohibits commercial use, and ci
 > [!note]
 > Next.[A guide to life.](https://github.com/byoungd/up)Maybe it's funny... and, of course,[Yun (run) studies](https://github.com/The-Run-Philosophy-Organization/run)I don't know.
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/chart?repos=hoochanlon/fq-book%2Choochanlon/hamuleite&type=timeline&legend=top-left)](https://www.star-history.com/?repos=hoochanlon%2Ffq-book%2Choochanlon%2Fhamuleite&type=timeline&logscale=&legend=top-left)
