@@ -110,9 +110,8 @@
  
  * Special (Chikatetsu Teikou Shugi)
    * [Chatgpt plus subscription method information collection](fkca/chatgpt.md)
-   * [Registered Americaapple id](fkca/appleid.md)
    * [Start a virtual credit card search.](fkca/mastercard.md)
-   * [Buying a gift card to give me an ID to buy small rockets.](fkca/apple-ssr.md)
+   * [America's ID buys small rockets.](fkca/apple-ssr.md)
    * [Examples of external cloud servers using ladders](fkca/ss-server.md)
    * [A record of success after several failures in the first set-up of the site](fkca/jianzhan.md)
 
