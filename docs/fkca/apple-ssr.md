@@ -74,7 +74,26 @@ The picture doesn't look like it. It's connected to the VPN. It's on AppStore.
 
 ### Read and write for the rest of the time.
 
-From this one.[iPhone/iPad V2ray/SS Overwall APP Curriculum](https://fanqiang.gitbook.io/fanqiang/ios/potatsolite)From the documents, it appears that there are more tools to go over the wall than there were in 18 years. I'll take a look in.[Register Apple ID account and purchase APP guidelines](https://fanqiang.gitbook.io/fanqiang/ios/appleid)I can't help but say that I'm years behind.
+#### Chatgpt plus subscription method information collection
+
+Precondition:
+* Roll-over software available
+* Got Chatgpt account number
+The only way to save time is by selling salt and salt before they are able to fill their subscriptions on their own.
 
 
-The author of this course, written by Lee Hongzhi, appears to have gone on for several years, and the wheeling has become much more hidden, with little evidence of wheel marks except for the wallbreaking news, and no desire for the 18-year session, which is very straightforward, and basically each page has the relevant posters. Now you don't care about it, you don't even care about it, you don't have a lot of back-to-back lessons from computers to mobile phones, routers and so on.
+I can't follow the video step by step because I've already got my number and subscription. “Doesn’t have access to internationally registered credit cards in the United States of America” and, in the course of the UP demonstration, the mobile phone alert bank card did not open information about payments abroad, and had to express its regret that domestic restrictions are...perfect!
+
+* [GPT Plus micro-mails can be filled directly, simplest, least expensive, and safest way to fill. No foreign currency cards, no American IDs, only accounts.](https://www.bilibili.com/video/BV1kFsnzgEN7)
+* [No visa or mastercard, no third-party refill, no virtual card, use of a national silver-coated card to bind Google store to ChatGPTPlus](https://www.bilibili.com/video/BV1NJYaziEXv)
+* [bewild.ai](https://bewild.ai/)
+
+btw:
+
+From[PayPal Registered Curriculum](https://www.bilibili.com/video/BV1ye4HzXE1A)The comment area is covered by information: the everything that's going on is in Dapuca, the global renminbi is going to pay, the US dollar is going to be tied up, but the US is going to google. Yeah.[The U.K. Bo card giffgaff suddenly suspended sending the real card to China.](https://www.bilibili.com/video/BV1Rs2MBcE3n)My feeling is that “unprofitable and unwelcome” when more people know about it.
+
+#### If it's temporary,
+
+From this one.[iPhone/iPad V2ray/SS Overwall APP Curriculum](https://fanqiang.gitbook.io/fanqiang/ios/potatsolite)From the documents, it appears that there are more tools to go over the wall than there were in 18 years. I'll take a look in.[Register Apple ID account and purchase APP guidelines](https://fanqiang.gitbook.io/fanqiang/ios/appleid)It seems that, several years later, when Lee Hongzhi's teacher, who is the author of the circumvention course, the wheel campaign has become much more hidden, with little evidence of the wheel, except for the story of the circumvention, and I don't want the 18-year event, which is very white, and basically every page has a message about it. Now you don't care about it, you don't even care about it, you don't have a lot of back-to-back lessons from computers to mobile phones, routers and so on.
+
+
