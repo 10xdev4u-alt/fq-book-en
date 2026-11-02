@@ -11,7 +11,7 @@ The book focuses on ways to access the Internet and on techniques for accessing 
 * [Contents](docs/_sidebar.md)
 * [Note](docs/postscript.md)
 
-**Most of the sample sites of the book, and more information available[w3-goto-world](https://github.com/hoodiearon/w3-goto-world), the relevant sections of the book are stored together Library`Scientific Internet access`It'll do better!**
+**Most of the sample sites of the book, and more information available[w3-goto-world](https://github.com/hoochanlon/w3-goto-world), the relevant sections of the book are stored together Library`Scientific Internet access`It'll do better!**
 
 ## ***update***
 
@@ -88,7 +88,7 @@ In the case of 01user, the old layout chain had expired at the time of the local
 ```
 git clone https://github.com/你的github用户名/fq-book.git
 cd fq-book
-git remote add upstream https://github.com/hoodiearon/fq-book.git
+git remote add upstream https://github.com/hoochanlon/fq-book.git
 # If necessary, use the following:
 git fetch upstream
 # If there is any knowledge of Git, the recommendations should be used as follows:`git pull upstream master --allow-unrelated-histories`Update in review code
