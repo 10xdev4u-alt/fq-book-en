@@ -113,6 +113,9 @@ git config --global https.proxy 'socks5://127.0.0.1:1080'
 # Cancel Agent
 git config --global --unset https.proxy 'socks5://127.0.0.1:1080'
 git config --global --unset http.proxy 'socks5://127.0.0.1:1080'
+# In terms of downloading components, it is possible to use poach mirrors.
+npm install -g cnpm --registry=https://registry.npm.taobao.org
+yarn config set registry https://registry.npm.taobao.org
 ```
 
 <details><summary>Update Icon</summary>
