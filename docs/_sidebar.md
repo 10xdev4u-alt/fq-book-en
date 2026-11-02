@@ -107,6 +107,14 @@
 
 * Methodology
   * [How to get ladders online](method/get-method.md)
+ 
+ * Special (Chikatetsu Teikou Shugi)
+   * [Chatgpt plus subscription method information collection](/chatgpt.md)
+   * [Registered Americaapple id](fkca/appleid.md)
+   * [Start a virtual credit card search.](/mastercard.md)
+   * [Buying a gift card to give me an ID to buy small rockets.](fkca/apple-ssr.md)
+   * [Self-constructed ladder entry: Shadowsocks server + Clash client configuration](/ss-server.md)
+   * [A record of success after several failures in the first set-up of the site](/jianzhan.md)
 
 * This posthumous note
 
