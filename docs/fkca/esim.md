@@ -4,7 +4,7 @@ British giffgaf telephone cards are no longer available for registration in Chin
 
 ## kitesim
 
-!>Note: Some of the numbers are issued in minutes or more and are not immediately coded, suggesting direct contact with the passenger service within the APP. Neither the code card nor the traffic card can be called. I can't get a text message from the kitesim card. Once the card is found to be useless, it would be better to look for other esim platforms.
+> [!note] Note: Some numbers are issued for minutes or minutes, and are not immediately coded, and it is suggested that they be directly connected to the passenger service within the AP. Neither the code card nor the traffic card can be called. I can't get a text message from the kitesim card. Once the card is found to be useless, it would be better to look for other esim platforms.
 
 ### The flow function requires mobile phone support for esim
 
@@ -57,3 +57,5 @@ References and detailed video teaching:
 
 * [The rings are infinite - super high value compared to U.S. traffic eS.M.](https://www.youtube.com/watch?v=Xmz0As2eBC0)
 * [The rings are infinite. We don't need a physical card, we'll clean up the APP overseas, and we'll lose registration!](https://www.youtube.com/watch?v=I65a7BKtCf0)
+
+Seeing here, you know why Esim is so tight... it's good for you!

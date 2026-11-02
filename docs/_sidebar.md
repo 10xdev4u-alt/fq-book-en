@@ -44,14 +44,6 @@
   * [Examples of external cloud servers using ladders](fkca/ss-server.md)
   * [Access via proxy IP combined fingerprint browser](fkca/fxxkcxxxa.md)
 
-
-* 1984 The Beautiful New World
-   * [Get a phone number from abroad.](fkca/esim.md)
-   * [Start a virtual credit card search.](fkca/mastercard.md)
-   * [Unable to use Gemini (ipdodo team programme)](fkca/ipdodo-gemini.md)
-    * [Lack of access to Gemini (personal use)](fkca/myself-gemini.md)
-
-
 * Website
   * [Search site](web/searchtools.md)
   * [Web Time Machine](web/web-archive.md)
@@ -67,6 +59,18 @@
   * [ipfs simple use](ipfs/ipfs-use-naive.md)
   * [Faith in going to the center network.](ipfs/belief.md)
   * [Why is it important to go to the center?](ipfs/why.md)
+
+* Methodology
+   * [How to get ladders online](method/get-method.md)
+   * [Get a phone number from abroad.](fkca/esim.md)
+   * [Start a virtual credit card search.](fkca/mastercard.md)
+   * [Unable to use Gemini (ipdodo team programme)](fkca/ipdodo-gemini.md)
+   * [Lack of access to Gemini (personal use)](fkca/myself-gemini.md)
+ 
+ * Special
+   * [More than APN](fkca/apn.md)
+   * [Finally, Tag.](fkca/tag.md)
+   * [Ex: Zero-competence and capital privileges in the rise of transnational class](fkca/gougongnuchubuzhoushan.md)
 
 * Science outreach
 
@@ -111,21 +115,10 @@
   * [SS Level 2 (pre) proxy settings](append/ss-relay.md)
   * [Ss, ssr, v2ray Link Parsing](append/srvurl.md)
   * [With Win 7, computers are routers.](append/win7-wifi.md)
-
-* comma
-  * [commarip](doub/init_doub.md)
+  * [A record of success after several failures in the first set-up of the site](fkca/jianzhan.md)
   * [Conjecture about the current form of blockage of the GFW TCP blockade](doub/wkcjzpyd-2.md)
   * [Talk about HTTP hijacking, the impact of DNS pollution and solutions](doub/6t3mypbm-5.md)
-
-* Methodology
-  * [How to get ladders online](method/get-method.md)
-  * [A record of success after several failures in the first set-up of the site](fkca/jianzhan.md)
  
- * Special
-   * [More than APN](fkca/apn.md)
-   * [Finally, Tag.](fkca/tag.md)
-   * [Ex: Zero-competence and capital privileges in the rise of transnational class](fkca/gougongnuchubuzhoushan.md)
-
 * This posthumous note
 
   * [Note](postscript.md)
