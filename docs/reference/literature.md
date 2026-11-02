@@ -54,3 +54,4 @@
 * [Difference between TCP/IP, HTTP agreements](https://www.jianshu.com/p/f4db4eb065bd)
 * [Mozilla - Content Security Policy](https://developer.mozilla.org/zh-CN/docs/Web/HTTP/CSP)
 * [An introductory tutorial for Nguyen I-Content Security Policy](http://www.ruanyifeng.com/blog/2016/09/csp.html)
+* [Youtube - Rings Unlimited "Rinfinity"](https://www.youtube.com/@%E6%98%9F%E7%92%B0%E7%84%A1%E9%99%90)
