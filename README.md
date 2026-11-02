@@ -4,11 +4,9 @@
 |:-:|:-:|:-:|:-:|:-:|
 
 > [!important]
-> Most of the sites that are examples of the book, as well as more information available[hamuleite](https://github.com/hoochanlon/hamuleite), the relevant sections of the book are stored together Library`Scientific Internet access`It'll do better! I have to say, this free ladder is amazing:[Pawdroid/Free-servers](https://github.com/Pawdroid/Free-servers)I don't know.
+> Most of the sites that are examples of the book, as well as more information available[hamuleite](https://github.com/hoochanlon/hamuleite), the relevant sections of the book are stored together Library`Scientific Internet access`It'll work better![Ip-Switch](https://github.com/hoochanlon/Ip-Switch)I don't know.[network-calculator](https://github.com/hoochanlon/network-calculator)I don't know.
 >
-> Recommended network switching and computing software:[Ip-Switch](https://github.com/hoochanlon/Ip-Switch)I don't know.[network-calculator](https://github.com/hoochanlon/network-calculator)
->
-> The current proxy software has evolved to achieve VPN functionality:[clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)and thousands of configurations[mihomo_yamls](https://github.com/HenryChiao/mihomo_yamls)Too strong.
+> I have to say, this is a great free ladder.[Pawdroid/Free-servers](https://github.com/Pawdroid/Free-servers)Now the proxy software has evolved to achieve VPN functionality:[clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)and thousands of configurations[mihomo_yamls](https://github.com/HenryChiao/mihomo_yamls)Too strong.
 
 ## ***intro***
 
