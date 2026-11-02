@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>This book will connect you to the Internet.</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="description" content="Over the wall! Methods and techniques of scientific Internet access and VPN or proxy simple use instruction Cheng">
+  <META NAME ="keywords" CONTENT="ss,ssr,ssh,proxy,vpn"> 
+  <link rel="icon" href="ico/favicon.ico">
+  <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+  <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css">
+</head>
+<!-- <body style="overflow:auto"> -->
+  <body>
+  <div id="app"></div>
+
+<script>
+    window.$docsify = {
+      nameLink: '/',
+      Name: 'This book will connect you to the Internet II',
+      repo: "hoochanlon/fq-book",
+      loadSidebar: true,
+      themeColor: "black",
+      auto2top: true,
+      subMaxLevel: 3,
+      search: {
+        paths: 'auto',
+        placeholder: {
+          '/': 'search'
+        },
+        noData: {
+          '/ ': 'No relevant words found, re-enter '
+        }
+      },
+      plugins: [
+        
+      function (hook) {
+      var footer = [
+        // '<hr/>',
+        '<footer>',
+          '<span> &copy;2018.<a href="https://hoochanlon.github.io" style="color: inherit; font-weight: normal; text-decoration: none;">hoochanlon</a></span>&emsp;',
+      '<span><a href="https://docsify.js.org" target="_blank" style="color: inherit; font-weight: normal; text-decoration: none;">Powered by docsify</a><span>',        
+        '&emsp;',
+         '<span><a href="http://creativecommons.org/licenses/by-nc/4.0/" target="_blank" style="color: inherit; font-weight: normal; text-decoration: none;"><img alt="Knowledge-sharing licensing agreements" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/80x15.png" /></a><span>',
+        '</footer>'
+      ].join('')
+      hook.afterEach(function (html) {
+        return html + footer
+      })
+    }
+      ]
+    }
+    //      + '<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">'+
+  //      '<img alt="Knowledge-sharing licensing agreements" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/80x15.png" />'
+    //    +'</a>',
+</script>
+<script src="//unpkg.com/docsify/lib/plugins/search.js"></script>
+<!-- <script src="//unpkg.com/docsify/lib/docsify.min.js"></script> -->
+<script src="//unpkg.com/prismjs/components/prism-bash.js"></script>
+<script src="//unpkg.com/docsify/lib/plugins/emoji.js"></script>
+<script src="//unpkg.com/docsify-copy-code"></script>
+<script src="//unpkg.com/docsify" data-ga="UA-157837686-2"></script>
+<script src="//unpkg.com/docsify/lib/plugins/ga.js"></script>
+</body>
+</html>
