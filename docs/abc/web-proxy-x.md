@@ -1,21 +1,18 @@
+
 # proxy access testing experiment
 
 Scenario: According to the default installation of proxy software, login account number connection nodes reveal errors in the software and suggest that the software logs are difficult to find and cause actual searching... The first idea is that the software character coding and compatibility issues are not valid for the win7 and win10 tests, even if the UTF-8 is coded, which is still the case; from previous experience, of course, it is also a fog at this time.
 
-![image-20201203111157414.png](https://i.loli.net/2020/12/03/ZotBXik1OMqbNrG.png)
+![image-20201215112132923.png](https://i.loli.net/2020/12/15/MXQB5KS8s4UgnDi.png)
 
-At this point in time, the customer service was contacted and the login network learned that a directory that does not contain special characters and spaces is common:
+At this point, it became clear that a directory that could not contain special characters or spaces was common:
 
 ```cmd
 C:\Program Files
 C:\Program Files (x86)
 ```
 
-...O-O " , according to the software network, the installation and log-in of the connection server were successful.
-
-![image-20201203112702148.png](https://i.loli.net/2020/12/03/GuPk7C3WbDyam4M.png)
-
-Although the connection was successful, access to Google was blocked by some anomalies, contacts were made to the vendor's customer service, and they also indicated that they had no problems with the servers, and the blanks on the pages below remain as is the case for the use of ss-links in order to temporarily connect colleagues to the Internet. (This diagram is a process reset)
+...O-O " , installed according to the software description, the log-in of the connection server was indeed successful. Although the connection was successful, access to Google was blocked by some anomalies, contacts were made to the vendor's customer service, and they also indicated that they had no problems with the servers, and the blanks on the pages below remain as is the case for the use of ss-links in order to temporarily connect colleagues to the Internet. (This diagram is a process reset)
 
 ![Catch_12-03-11-39-37_.jpg](https://i.loli.net/2020/12/03/o81uC4zR6LipQYd.jpg)
 
@@ -67,8 +64,4 @@ When the browser client submits the web site, the proxy begins to search for a c
 
 The proxy automatically removes the cache according to the time, size and extraction record of the cache. There are two ways to delete, one by deleting the information that has been kept for the longest time and the other by deleting the cache from which the minimum withdrawal is obtained. Both approaches could also be used in combination.
 
-<!-- ![](https://ipfs.io/ipfs/QmdE2aVy9Wc7kHTYtsS7cDSPGM1DnZ1SDfAi2d7YJjiqsK?3.png) -->
-
-![](https://i.postimg.cc/SxPDbLKc/2018-05-10-192753.png)
-
-
+![2018-05-10-192753.png](https://i.loli.net/2020/12/15/6TeZqCQ3c2gxous.png)
