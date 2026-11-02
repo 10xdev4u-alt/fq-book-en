@@ -47,8 +47,6 @@ Release!: Change to 100 degrees, Ali, DNS, and use ipconfig/flushdns to refresh 
 * Ali DNS: 223.5.5.5, 223.6.6.6.6
 * DNS: 119.29.29.29, 182.254.116.116
 
-Just a few words: the software for setting up HOSTS, DNS, recommended:[SwitchHosts](https://github.com/oldj/SwitchHosts)(Import GitHub hosts available)[ineo6/hosts](https://github.com/ineo6/hosts)I'm sorry.[DNSCrypt](https://github.com/DNSCrypt/dnscrypt-proxy)I don't care how the proxy and vpn change. VPN, Proxy, another new thing.[clashios](https://clashios.com/about-me/)Chief, the software mentioned is also a reference. In addition,[SteamTools](https://github.com/BeyondDimension/SteamTools)Game accelerators, basic community shops and community news browsing for steam are very good, after all, free.
-
 ## ***usage***
 
 ### Online deployment
@@ -136,9 +134,7 @@ Commit to Repo
 
 </details>
 
-### Proxy Settings and Component Download (follow-up reference)
-
-*** Proxy Settings***
+### Proxy Settings
 
 ```
 # guit Client Proxy Settings
@@ -177,20 +173,15 @@ ProxyCommand socat - PROXY:127.0.0.1:%h:%p,proxyport=8848
 
 ```
 
-*** Download component ***
 
-```
+## ***essays***
 
-# npm/ yarn can be used as a mirror.
-npm install -g cnpm --registry=https://registry.npm.taobao.org
-yarn config set registry https://registry.npm.taobao.org
----
-# python Install Source
-pip install pip -U
-pip config set global.index-url https://pypi.douban.com/simple/
-```
+Set up HOSTS, DNS software, recommended:[SwitchHosts](https://github.com/oldj/SwitchHosts)(Import GitHub hosts available)[ineo6/hosts](https://github.com/ineo6/hosts)I'm sorry.[DNSCrypt](https://github.com/DNSCrypt/dnscrypt-proxy)I don't care how the proxy and vpn change. VPN, Proxy and something new.[clashios](https://clashios.com/about-me/)The software that was mentioned was also available.
 
-Of course, some of the people who like to manipulate the configuration of the environment have naturally learned some lessons that are written in projects, such as:[homebrew-install](https://github.com/ineo6/homebrew-install)I don't know.[Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)I don't know.[package-manager-proxy-settings](https://github.com/comwrg/package-manager-proxy-settings)I don't know.
+In terms of downloading components, some of the people who like to manipulate the configuration of the environment have naturally learned some lessons that are written in projects, such as:[homebrew-install](https://github.com/ineo6/homebrew-install)I don't know.[Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)I don't know.[package-manager-proxy-settings](https://github.com/comwrg/package-manager-proxy-settings)I don't know.
+
+[SteamTools](https://github.com/BeyondDimension/SteamTools)Game accelerators, basic community shops, community news browsing for steam, all right, free of charge, after all.[dogfight360](https://www.dogfight360.com/blog/475/#comment-25207)UsbEAm Hosts Editor also works to speed up access to the video-cheat. And a popex hero (iOS/iPados version) can actually play with a little rocket, though it's locked up.
+
 
 ## ***mind you*** 
 
