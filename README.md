@@ -172,7 +172,12 @@ Terminal Cancel Agent
 unset ALL_PROXY"
 ```
 
-Even if the proxy software were to be in a global mode, the terminal would not be a proxy and would need to be set up separately. In addition, the Mac terminal set up the proxy Git to be free of the setup.
+Even if the proxy software were to be in a global mode, the terminal would not be a proxy and would need to be set up separately. In addition, the Mac terminal set up the proxy Git to be free of the setup. This is available.https://cip.ccTo determine if the software went through the proxy channel.
+
+```
+curl cip.cc
+```
+
 
 #### Attach ssh
 
