@@ -203,5 +203,5 @@ The book allows for performance and sharing but prohibits commercial use, and ci
 * The Chinese people are asking themselves to shut down the book and to delete all its contents within 24 hours, otherwise the author of the book will not be responsible for any consequences.
 
 > [!note]
-> Next.[A guide to life.](https://github.com/byoungd/up)Maybe it's funny...
+> Next.[A guide to life.](https://github.com/byoungd/up)Maybe it's funny... and, of course,[Yun (run) studies](https://github.com/The-Run-Philosophy-Organization/run)I don't know.
 
