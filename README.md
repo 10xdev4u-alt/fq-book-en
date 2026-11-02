@@ -6,7 +6,7 @@
 > [!important]
 > Most of the sites that are examples of the book, as well as more information available[hamuleite](https://github.com/hoochanlon/hamuleite), the relevant sections of the book are stored together Library`Scientific Internet access`It'll work better![Ip-Switch](https://github.com/hoochanlon/Ip-Switch)I don't know.[network-calculator](https://github.com/hoochanlon/network-calculator)I don't know.
 >
-> I have to say,[Pawdroid/Free-servers](https://github.com/Pawdroid/Free-servers)This free ladder is amazing.[DiningFactory/panda-vpn-pro](https://github.com/DiningFactory/panda-vpn-pro)Low-cost airports are an option.[clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)We've got VPN and thousands of configurations.[mihomo_yamls](https://github.com/HenryChiao/mihomo_yamls)Too strong.
+> I have to say,[Pawdroid/Free-servers](https://github.com/Pawdroid/Free-servers)This free ladder is amazing.[LancelotRar/free-subs](https://github.com/LancelotRar/free-subs)It is also possible to build nodes.[DiningFactory/panda-vpn-pro](https://github.com/DiningFactory/panda-vpn-pro)Low-cost airports are an option.[clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)We've got VPN and thousands of configurations.[mihomo_yamls](https://github.com/HenryChiao/mihomo_yamls)Too strong.
 >
 > With the arrival of the AI age,[panxunying/ai-coding-welfare](https://github.com/panxunying/ai-coding-welfare)I know some of the AI Coding welfare stations are not bad.https://byoungd.github.io/upI don't know.[A guide to life.](https://github.com/byoungd/up)Maybe it's funny...
 
