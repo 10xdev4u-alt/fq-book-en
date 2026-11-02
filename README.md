@@ -13,6 +13,19 @@ The book focuses on ways to access the Internet and on techniques for accessing 
 
 **Most of the sample sites of the book, and more information available[w3-goto-world](https://github.com/hoochanlon/w3-goto-world), the relevant sections of the book are stored together Library`Scientific Internet access`It'll do better!**
 
+
+
+## ***NET::ERR_CERT_AUTHORITY_INVALID***
+
+The browser gives an additional hint: the assailant may have tried to steal your information from xx.github.io, a server that could not prove it was xx.github.io; your computer operating system does not trust its security certificate. This could have been caused by a configuration error or an attacker intercepting your connection. When the visit is continued, another 403.
+
+Release!: Change to 100 degrees, Ali, DNS, and use ipconfig/flushdns to refresh the cache. Brief explanation: The ISP provides the wrong root certificate for the DNS in exchange for a third party that can provide the correct certificate to the website.
+
+* 100 degrees DNS: 180.76.76.76
+* Ali DNS: 223.5.5.5, 223.6.6.6.6
+* DNS: 119.29.29.29, 182.254.116.116
+
+
 ## ***update***
 
 This book will connect you to the Internet.->This book will connect you to the second point of the update:
