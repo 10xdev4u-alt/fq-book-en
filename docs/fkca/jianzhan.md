@@ -122,7 +122,7 @@ docker compose up -d
 
 Old UI screenshot:
 
-![Old version Memos UI](https://cdn.jsdelivr.net/gh/hoochanlon/picx-images-hosting@master/uploads/2025/PixPin_2025-11-05_18-11-00.webp)
+![Old version Memos UI](https://cdn.jsdelivr.net/gh/hoochanlon/picx-images-hosting@master/imgs/uploads/2025/PixPin_2025-11-05_18-11-00.webp)
 
 
 Although there are many derivatives, there is little personal interest:
@@ -150,6 +150,7 @@ Reference course:
 - [Automatically apply and renew wildcard certificates using 1Panel](https://hin.cool/posts/sslfor1panel.html)
 - [GitHub Pages binding domain name problems](https://blog.csdn.net/jinweilin/article/details/79607349?)
 - [gthub.io binding domain names](https://blog.csdn.net/weixin_45961774/article/details/108402406)
+
 
 
 

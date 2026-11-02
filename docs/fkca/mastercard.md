@@ -50,35 +50,35 @@ Purchase of virtual currency: Take the example of alipay: after finding a busine
 
 After the purchase of a virtual currency from Eulio, a transaction with binpay took place, as shown below:
 
-![](https://cdn.jsdelivr.net/gh/hoochanlon/picx-images-hosting@master/fkca/PixPin_2025-11-12_21-49-26.png)
+![](https://cdn.jsdelivr.net/gh/hoochanlon/picx-images-hosting@master/imgs/fkca/PixPin_2025-11-12_21-49-26.png)
 
 In a few minutes, we'll get a message and a system transfer.
 
-![](https://cdn.jsdelivr.net/gh/hoochanlon/picx-images-hosting@master/fkca/PixPin_2025-11-12_21-54-02.png)
+![](https://cdn.jsdelivr.net/gh/hoochanlon/picx-images-hosting@master/imgs/fkca/PixPin_2025-11-12_21-54-02.png)
 
-![](https://cdn.jsdelivr.net/gh/hoochanlon/picx-images-hosting@master/fkca/PixPin_2025-11-12_22-24-31.png)
+![](https://cdn.jsdelivr.net/gh/hoochanlon/picx-images-hosting@master/imgs/fkca/PixPin_2025-11-12_22-24-31.png)
 
 Then you open the binpay, and you convert it into a dollar.
 
-![](https://cdn.jsdelivr.net/gh/hoochanlon/picx-images-hosting@master/fkca/PixPin_2025-11-12_22-26-55.png)
+![](https://cdn.jsdelivr.net/gh/hoochanlon/picx-images-hosting@master/imgs/fkca/PixPin_2025-11-12_22-26-55.png)
 
 Then the wallet had a dollar amount, so you could apply for a card.
 
-![](https://cdn.jsdelivr.net/gh/hoochanlon/picx-images-hosting@master/fkca/PixPin_2025-11-12_22-27-54.png)
+![](https://cdn.jsdelivr.net/gh/hoochanlon/picx-images-hosting@master/imgs/fkca/PixPin_2025-11-12_22-27-54.png)
 
-![](https://cdn.jsdelivr.net/gh/hoochanlon/picx-images-hosting@master/fkca/PixPin_2025-11-12_22-29-06.png)
+![](https://cdn.jsdelivr.net/gh/hoochanlon/picx-images-hosting@master/imgs/fkca/PixPin_2025-11-12_22-29-06.png)
 
 Set password active card
 
-![](https://cdn.jsdelivr.net/gh/hoochanlon/picx-images-hosting@master/fkca/PixPin_2025-11-12_22-30-58.png)
+![](https://cdn.jsdelivr.net/gh/hoochanlon/picx-images-hosting@master/imgs/fkca/PixPin_2025-11-12_22-30-58.png)
 
 
 ## Fill in with cloud flare r2 service credit card information
 
 Free Free State see information extraction, using U.S. Address Generatorhttps://www.meiguodizhi.com, fill in mail messages, etc.
 
-![](https://cdn.jsdelivr.net/gh/hoochanlon/picx-images-hosting@master/fkca/PixPin_2025-11-12_22-38-44.png)
+![](https://cdn.jsdelivr.net/gh/hoochanlon/picx-images-hosting@master/imgs/fkca/PixPin_2025-11-12_22-38-44.png)
 
 R2 storage drum successfully used!
 
-![](https://cdn.jsdelivr.net/gh/hoochanlon/picx-images-hosting@master/fkca/PixPin_2025-11-12_22-45-24.png)
+![](https://cdn.jsdelivr.net/gh/hoochanlon/picx-images-hosting@master/imgs/fkca/PixPin_2025-11-12_22-45-24.png)

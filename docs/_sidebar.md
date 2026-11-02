@@ -71,6 +71,7 @@
   * [Nat-type science and promotion methods](abc/4nat.md)
   * [A smooth, reverse, transparent proxy.](abc/proxy-s-x.md)
   * [Distinction between deep and dark nets and basic literacy](abc/darkweb.md)
+  * [Why is Pure IP so important?](abc/pure.md)
   * [Clusters, distributed, load-balanced differences](abc/p7255364.md)
   * [Why did you go over the wall and not have access to a website?](a123/rst-syscall.md)
 
@@ -109,10 +110,15 @@
   * [How to get ladders online](method/get-method.md)
  
  * Special (Chikatetsu Teikou Shugi)
+   
+   * [Get a phone number from abroad.](fkca/esim.md)
    * [Start a virtual credit card search.](fkca/mastercard.md)
    * [America's ID buys small rockets.](fkca/apple-ssr.md)
    * [Examples of external cloud servers using ladders](fkca/ss-server.md)
+   * [Access via proxy IP combined fingerprint browser](fkca/fxxkcxxxa.md)
    * [A record of success after several failures in the first set-up of the site](fkca/jianzhan.md)
+   * [More than exploring APN.](fkca/apn.md)
+
 
 * This posthumous note
 
