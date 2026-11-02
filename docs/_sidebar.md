@@ -107,6 +107,12 @@
 
 * Methodology
   * [How to get ladders online](method/get-method.md)
+ 
+ * Special (Chikatetsu Teikou Shugi)
+   * [Start a virtual credit card search.](fkca/mastercard.md)
+   * [America's ID buys small rockets.](fkca/apple-ssr.md)
+   * [Examples of external cloud servers using ladders](fkca/ss-server.md)
+   * [A record of success after several failures in the first set-up of the site](fkca/jianzhan.md)
 
 * This posthumous note
 
