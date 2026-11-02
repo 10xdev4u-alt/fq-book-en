@@ -113,7 +113,7 @@
    * [Registered Americaapple id](fkca/appleid.md)
    * [Start a virtual credit card search.](fkca/mastercard.md)
    * [Buying a gift card to give me an ID to buy small rockets.](fkca/apple-ssr.md)
-   * [Self-constructed ladder entry: Shadowsocks server + Clash client configuration](fkca/ss-server.md)
+   * [Examples of external cloud servers using ladders](fkca/ss-server.md)
    * [A record of success after several failures in the first set-up of the site](fkca/jianzhan.md)
 
 * This posthumous note
