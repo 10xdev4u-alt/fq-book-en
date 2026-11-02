@@ -1,7 +1,7 @@
 # This book will connect you to the Internet.
 
-|[![cc](https://i.creativecommons.org/l/by-nc/4.0/80x15.png)](http://creativecommons.org/licenses/by-nc/4.0/)|[![fq-book](https://img.shields.io/badge/%F0%9F%93%96book-fq--book-red.svg?longCache=true&style=flat-square)](https://hoochanlon.github.io/fq-book)|[![blog](https://img.shields.io/badge/%F0%9F%94%97blog-hoochanlon-lightgrey.svg?longCache=true&style=flat-square)](https://hoochanlon.github.io/)| [![outlook](https://img.shields.io/badge/%F0%9F%93%A7hotmail-@邮箱联系-blue.svg?longCache=true&style=flat-square)](mailto:hoochanlon@outlook.com) |
-|:-:|:-:|:-:|:-:|
+|[![cc](https://i.creativecommons.org/l/by-nc/4.0/80x15.png)](http://creativecommons.org/licenses/by-nc/4.0/)|[![fq-book](https://img.shields.io/badge/%F0%9F%93%96book-fq--book-red.svg?longCache=true&style=flat-square)](https://hoochanlon.github.io/fq-book)|
+|:-:|:-:|
 
 > [!important]
 > Most of the sites that are examples of the book, as well as more information available[hamuleite](https://github.com/hoochanlon/hamuleite), the relevant sections of the book are stored together Library`Scientific Internet access`It'll work better![Ip-Switch](https://github.com/hoochanlon/Ip-Switch)I don't know.[network-calculator](https://github.com/hoochanlon/network-calculator)I don't know.
