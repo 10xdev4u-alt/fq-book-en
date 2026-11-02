@@ -185,7 +185,7 @@ More proxy settings:[SunSeekerX's Notebook-Agent Setup](https://doc.yoouu.cn/bas
 
 ## ***essays***
 
-Set up HOSTS, DNS software, recommended:[SwitchHosts](https://github.com/oldj/SwitchHosts)(Import GitHub hosts available)[ineo6/hosts](https://github.com/ineo6/hosts)I'm sorry.[DNSCrypt](https://github.com/DNSCrypt/dnscrypt-proxy)I don't care how the proxy and vpn change. VPN, Proxy and something new.[clashios](https://clashios.com/about-me/)The software that was mentioned was also available.
+Set up HOSTS, DNS software, recommended:[Ip Switch](https://github.com/hoochanlon/Ip-Switch)(Import GitHub hosts available)[ineo6/hosts](https://github.com/ineo6/hosts)I'm sorry.[DNSCrypt](https://github.com/DNSCrypt/dnscrypt-proxy)I don't care how the proxy and vpn change. VPN, Proxy and something new.[clashios](https://clashios.com/about-me/)The software that was mentioned was also available.
 
 In terms of downloading components, some of the people who like to manipulate the configuration of the environment have naturally learned some lessons that are written in projects, such as:[homebrew-install](https://github.com/ineo6/homebrew-install)I don't know.[Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)I don't know.[package-manager-proxy-settings](https://github.com/comwrg/package-manager-proxy-settings)I don't know.
 
