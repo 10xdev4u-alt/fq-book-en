@@ -1,6 +1,6 @@
 # Attention
 
-!>The example is Win10, and the mac step may be slightly different, but the approach may be consistent<br><br>
+> [!note] Example: Win10, the mac step may be slightly different, but the approach may be consistent.<br><br>
 The construction of VPS nodes, mirrors, web-based proxies, and routing are more restrictive and therefore do not address this<br><br>
 Use of VPN in higher education, need to be installed with a specially processed campus network client, without consideration for using an proxy<br><br>
 Networking requires attention to UDP forwarding support and current NAT type between the client and remote server<br><br>

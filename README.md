@@ -6,6 +6,8 @@
 > [!important]
 > Most of the sites that are examples of the book, as well as more information available[hamuleite](https://github.com/hoochanlon/hamuleite), the relevant sections of the book are stored together Library`Scientific Internet access`It'll do better! I have to say, this free ladder is amazing:[Pawdroid/Free-servers](https://github.com/Pawdroid/Free-servers)I don't know.
 >
+> Recommended network switching and computing software:[Ip-Switch](https://github.com/hoochanlon/Ip-Switch)I don't know.[network-calculator](https://github.com/hoochanlon/network-calculator)
+>
 > The current proxy software has evolved to achieve VPN functionality:[clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)and thousands of configurations[mihomo_yamls](https://github.com/HenryChiao/mihomo_yamls)Too strong.
 
 ## ***intro***
@@ -16,7 +18,6 @@ The book focuses on ways to access the Internet and on techniques for accessing 
 * [Contents](docs/_sidebar.md)
 * [Note](docs/postscript.md)
 
-<!--[![Stargazers over time](https://starchart.cc/hoochanlon/fq-book.svg)](https://starchart.cc/hoochanlon/fq-book)-->
 
 ## ***update***
 

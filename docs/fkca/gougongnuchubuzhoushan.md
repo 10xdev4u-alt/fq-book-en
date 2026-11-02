@@ -1,6 +1,8 @@
-# “Zero-Accordingness” and “Capital Privileges” in the rise of the transnational class: Cross-border arbitrage of low-capitalized families in a downward social context
+# The “zero-composite” and “capital privilege” leaps in the transnational class
 
-> The text was summarized and analysed by Gemini and checked with the relevant officials in Singapore and Japan to confirm that there were no significant omissions or deviations from the AI summary.
+Cross-border arbitrage studies on the intergenerational demise and super-high net worth of low-capital families in a downward social context
+
+> [!IMPORTANT] The text was analysed and summarized by Gemini and checked with contacts in Singapore and Japan to confirm that there were no significant omissions or deviations in the AI summary.
 
 ## Summary (Abstract)
 

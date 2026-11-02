@@ -27,6 +27,12 @@
   * [puffin](browse/puffin.md)
   * [zeronet](browse/zeronet.md)
 
+* VPN software
+
+  * [Betternet](vpn/betternet.md)
+  * [Typical VPN overview](vpn/classical-vpn.md)
+  * [wireguard](vpn/wireguard.md)
+
 * Proxy Tool
 
   * [SS/SSR](proxy/ss-ssr.md)
@@ -34,12 +40,17 @@
   * [proxifier](proxy/proxifier.md)
   * [privoxy](proxy/privoxy.md)
   * [SSH-Tunnel](proxy/SSH-Tunnel.md)
+  * [America's ID buys small rockets.](fkca/apple-ssr.md)
+  * [Examples of external cloud servers using ladders](fkca/ss-server.md)
+  * [Access via proxy IP combined fingerprint browser](fkca/fxxkcxxxa.md)
 
-* VPN software
 
-  * [Betternet](vpn/betternet.md)
-  * [Typical VPN overview](vpn/classical-vpn.md)
-  * [wireguard](vpn/wireguard.md)
+* 1984 The Beautiful New World
+   * [Get a phone number from abroad.](fkca/esim.md)
+   * [Start a virtual credit card search.](fkca/mastercard.md)
+   * [Unable to use Gemini (ipdodo team programme)](fkca/ipdodo-gemini.md)
+    * [Lack of access to Gemini (personal use)](fkca/myself-gemini.md)
+
 
 * Website
   * [Search site](web/searchtools.md)
@@ -108,17 +119,11 @@
 
 * Methodology
   * [How to get ladders online](method/get-method.md)
+  * [A record of success after several failures in the first set-up of the site](fkca/jianzhan.md)
  
- * Special (Chikatetsu Teikou Shugi)
-   
-   * [Get a phone number from abroad.](fkca/esim.md)
-   * [Start a virtual credit card search.](fkca/mastercard.md)
-   * [America's ID buys small rockets.](fkca/apple-ssr.md)
-   * [Examples of external cloud servers using ladders](fkca/ss-server.md)
-   * [Access via proxy IP combined fingerprint browser](fkca/fxxkcxxxa.md)
-   * [A record of success after several failures in the first set-up of the site](fkca/jianzhan.md)
-   * [More than exploring APN.](fkca/apn.md)
-   * [Last Tag.](fkca/tag.md)
+ * Special
+   * [More than APN](fkca/apn.md)
+   * [Finally, Tag.](fkca/tag.md)
    * [Ex: Zero-competence and capital privileges in the rise of transnational class](fkca/gougongnuchubuzhoushan.md)
 
 * This posthumous note

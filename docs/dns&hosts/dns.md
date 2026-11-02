@@ -1,6 +1,6 @@
 # Change DNS to prevent domain name pollution
 
-!>If we are confused that the DNS can be modified only against hijacking, but also against pollution and even the release of the IP, then we will be in a state of uncertainty.[Please click here to see what's involved.](/abc/4dns?id=dns-pollution)
+> [!tip] If you're confused that the DNS can be modified only against hijacking, but also against pollution and even the release of the IP, it's not a good idea.[Please click here to see what's involved.](/abc/4dns?id=dns-pollution)
 
 Enter[baidns.cn](https://baidns.cn/)Remember this DNS address
 

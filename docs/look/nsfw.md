@@ -1,6 +1,6 @@
 # Privacy protection
 
-!>If you need to provide a positive or negative license and document number, search some similar pictures or use the associated generation<br><br>
+> [!note] When you need to provide a positive or negative license and document number, search for some similar images or use the associated generation<br><br>
 If a personal mobile phone number is required, please use an individual ' s own virtual phone, many of which are no longer available.<br><br>
 If you need to provide a personal authentication mailbox, use a temporary mailbox to register the untrusted site test to experience its functionality<br><br>
 Use of foreign software products to the greatest extent possible, as domestic systems are highly harmonious and non-new and have hooligan problems<br><br>
