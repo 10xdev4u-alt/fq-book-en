@@ -119,21 +119,54 @@ git push -u -f origin master
 
 Enter the account number & password to upload to your own repo to complete a remote update of Github account warehouse. ** More instructions, please see[Git Official Document](https://git-scm.com/book/zh/v2)** In exceptional circumstances, there may be a need for agency, mirror, light cloning settings
 
+*** Proxy Settings***
+
 ```
-# Proxy Settings
+# guit Client Proxy Settings
 git config --global http.proxy 'socks5://127.0.0.1:1080'
 git config --global https.proxy 'socks5://127.0.0.1:1080'
 
-# Cancel Agent
+# guit client cancel proxy
 git config --global --unset https.proxy 'socks5://127.0.0.1:1080'
 git config --global --unset http.proxy 'socks5://127.0.0.1:1080'
 
 # guit line defaults to download the full historical version of the item, using light copying if you only care about the latest code and not previous history:
 git clone --depth=1  https://github.com/你的用户名/你的repo.git
 
-# In terms of downloading components, it is possible to use poach mirrors.
+---
+# Mac Terminal
+
+export http_proxy="socks5://127.0.0.1:1080"
+export https_proxy="socks5://127.0.0.1:1080"
+
+## Set in. bahrc or.zshrc
+alias setproxy="export ALL_PROXY=socks5://127.0.0.1:1080"
+alias unsetproxy="unset ALL_PROXY"
+
+---
+# ssh
+## gthub ssh configuration
+### https://help.github.com/articles/using-ssh-over-the-https-port/
+
+## HTTP Proxy
+ProxyCommand socat - PROXY:127.0.0.1:%h:%p,proxyport=8848
+
+## Socks5 Proxy
+ ProxyCommand nc -v -x 127.0.0.1:1080 %h %p
+
+```
+
+*** Download component ***
+
+```
+
+# npm/ yarn can be used as a mirror.
 npm install -g cnpm --registry=https://registry.npm.taobao.org
 yarn config set registry https://registry.npm.taobao.org
+---
+# python Install Source
+pip install pip -U
+pip config set global.index-url https://pypi.douban.com/simple/
 ```
 
 <details><summary>Update Icon</summary>
