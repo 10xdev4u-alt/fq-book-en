@@ -14,3 +14,7 @@ Because of the need to use jakarta-related products and content, etc.; so far, t
 * The Chinese people are asking themselves to shut down the book and to delete all its contents within 24 hours, otherwise the author of the book will not be responsible for any consequences.
 
 This book is dedicated to people who love the Internet.
+
+### Outreach
+
+New book[Desktop Transport Management Guide](https://hoochanlon.github.io/helpdesk-manual/)Published, PUA operational profile, decomposition of operations of small and medium-sized outsourcing companies, re-thinking HR, introduction to social engineering, anti-deception research. Welcome Star.
